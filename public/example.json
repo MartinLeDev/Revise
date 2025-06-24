@@ -285,42 +285,42 @@
         {
           "name": "Analyse de texte / Lecture",
           "questions": [
-            {"name": "Qui est le narrateur dans « Le Petit Prince » ?", "response": "Un aviateur-pilote", "fake_reponse": ["Le petit prince", "Un renard"]},
-            {"name": "Quelle figure de style est « la nuit m’a dit » ?", "response": "Métaphore", "fake_reponse": ["Anaphore", "Ironie"]},
-            {"name": "Quel est le thème principal de « Demain, dès l’aube » ?", "response": "Le deuil", "fake_reponse": ["L’amour", "L’amitié"]},
-            {"name": "Qui raconte l’histoire dans « Le Cid » de Corneille ?", "response": "Rodrigue", "fake_reponse": ["Cid", "Don Fernand"]},
-            {"name": "Quelle est la structure d’une fable de La Fontaine ?", "response": "Introduction, récit, morale", "fake_reponse": ["Thèse, antithèse, synthèse", "Exposition, nœud, dénouement"]},
+            {"name": "Qui est le narrateur dans «Le Petit Prince» ?", "response": "Un aviateur-pilote", "fake_reponse": ["Le petit prince", "Un renard"]},
+            {"name": "Quelle figure de style est «la nuit m’a dit» ?", "response": "Métaphore", "fake_reponse": ["Anaphore", "Ironie"]},
+            {"name": "Quel est le thème principal de «Demain, dès l’aube» ?", "response": "Le deuil", "fake_reponse": ["L’amour", "L’amitié"]},
+            {"name": "Qui raconte l’histoire dans «Le Cid» de Corneille?", "response": "Rodrigue", "fake_reponse": ["Cid", "Don Fernand"]},
+            {"name": "Quelle est la structure d’une fable de La Fontaine?", "response": "Introduction, récit, morale", "fake_reponse": ["Thèse, antithèse, synthèse", "Exposition, nœud, dénouement"]},
             {"name": "Définis l’ellipse narrative", "response": "Elle saute un moment dans le récit", "fake_reponse": ["Elle répète une scène", "Elle ferme un paragraphe"]},
-            {"name": "Quel poète écrit « Demain, dès l’aube » ?", "response": "Victor Hugo", "fake_reponse": ["Charles Baudelaire", "Paul Verlaine"]},
-            {"name": "Quel registre est utilisé dans une tragédie classique ?", "response": "Tragique", "fake_reponse": ["Comique", "Lyrique"]},
+            {"name": "Quel poète écrit «Demain, dès l’aube» ?", "response": "Victor Hugo", "fake_reponse": ["Charles Baudelaire", "Paul Verlaine"]},
+            {"name": "Quel registre est utilisé dans une tragédie classique?", "response": "Tragique", "fake_reponse": ["Comique", "Lyrique"]},
             {"name": "Qu’est-ce qu’un personnage éponyme ?", "response": "Le personnage donne son nom à l’œuvre", "fake_reponse": ["Le personnage secondaire", "Le narrateur"]},
-            {"name": "Quel temps utilise-t-on souvent dans un récit au passé ?", "response": "Imparfait et passé simple", "fake_reponse": ["Présent et futur simple", "Plus-que-parfait uniquement"]},
-            {"name": "Que signifie « allégorie » ?", "response": "Représentation abstraite concrète", "fake_reponse": ["Répétition de son", "Opposition brutale"]},
+            {"name": "Quel temps utilise-t-on souvent dans un récit au passé?", "response": "Imparfait et passé simple", "fake_reponse": ["Présent et futur simple", "Plus-que-parfait uniquement"]},
+            {"name": "Que signifie «allégorie» ?", "response": "Représentation abstraite concrète", "fake_reponse": ["Répétition de son", "Opposition brutale"]},
             {"name": "Qui est l’auteur des Fables ?", "response": "Jean de La Fontaine", "fake_reponse": ["Voltaire", "Racine"]},
             {"name": "Donne un exemple de personnification", "response": "Le vent chantait dans les arbres", "fake_reponse": ["Le chat boit du lait", "Il court vite"]},
             {"name": "Quelle est la morale d’une fable ?", "response": "Une leçon universelle", "fake_reponse": ["Un simple divertissement", "Un slogan publicitaire"]},
-            {"name": "Que désigne le champ lexical de la guerre dans un texte ?", "response": "Les mots liés à la guerre", "fake_reponse": ["Les mots positifs", "Les chiffres exclusivement"]},
-            {"name": "Quel est le point de vue narratif de la 1re personne ?", "response": "Je raconte l’histoire", "fake_reponse": ["Il raconte tout", "Tu raconte"]}
+            {"name": "Que désigne le champ lexical de la guerre dans un texte?", "response": "Les mots liés à la guerre", "fake_reponse": ["Les mots positifs", "Les chiffres exclusivement"]},
+            {"name": "Quel est le point de vue narratif de la 1re personne?", "response": "Je raconte l’histoire", "fake_reponse": ["Il raconte tout", "Tu raconte"]}
           ]
         },
         {
           "name": "Grammaire / Orthographe",
           "questions": [
-            {"name": "Quelle est la différence entre « à » et « a » ?", "response": "« à » = préposition, « a » = verbe avoir 3e personne", "fake_reponse": ["Les deux sont des homonymes grammaticaux", "Même chose"]},
-            {"name": "Comment accorde-t-on un verbe pronominal au passé composé ?", "response": "Avec l’auxiliaire être + accord si COD antéposé", "fake_reponse": ["Toujours aucun accord", "Avec avoir"]},
-            {"name": "Accorde : « Elle s’est lavé( ) la main »", "response": "Elle s’est lavée la main", "fake_reponse": ["Elle s’est lavé la main", "Elle s’est lavés la main"]},
-            {"name": "Quelle est la fonction de « les fleurs » dans « Je vois les fleurs » ?", "response": "COD", "fake_reponse": ["Sujet", "Complément circonstanciel"]},
-            {"name": "Quelle est la nature de « rapidement » ?", "response": "Adverbe", "fake_reponse": ["Adjectif", "Nom"]},
-            {"name": "Qu’est-ce qu’un participe présent ?", "response": "Un verbe en -ant utilisé comme adjectif ou adverbe", "fake_reponse": ["Un temps du futur", "Un nom"]},
-            {"name": "Accorde « un amas (blanc) »", "response": "un amas blanc", "fake_reponse": ["un amas blanche", "un amas blanches"]},
-            {"name": "Quand utilise-t-on le subjonctif ?", "response": "Après certains verbes exprimant le doute, le désir, la crainte", "fake_reponse": ["Après tous les verbes", "Seulement dans le passé"]},
-            {"name": "Quel est l’adjectif possessif pour « nous » ?", "response": "Notre / nos", "fake_reponse": ["Leur", "Votre"]},
-            {"name": "Quelle est la différence entre « son » et « sont » ?", "response": "son = adjectif possessif, sont = verbe être 3e pluriel", "fake_reponse": ["Même chose", "Un est archaïque"]},
-            {"name": "Quelle classe grammaticale est « et » ?", "response": "Conjonction de coordination", "fake_reponse": ["Préposition", "Adverbe"]},
-            {"name": "Accorde « nous avons (voir) » au passé composé", "response": "nous avons vu", "fake_reponse": ["nous avons voir", "nous avons voient"]},
-            {"name": "Qu’est-ce qu’un complément circonstanciel ?", "response": "Informations sur lieu, temps, manière…", "fake_reponse": ["Sujet du verbe", "Adjectif"]},
-            {"name": "Quelle est la règle d’accord du pluriel en -eu ?", "response": "On ajoute un x (ex: un feu → des feux)", "fake_reponse": ["On ajoute un s", "Change le u en o"]},
-            {"name": "Quand met-on un accent circonflexe sur « âge » ?", "response": "Indique une disparition de s ancien", "fake_reponse": ["C’est juste un style", "Pour marquer la voix"]}
+            {"name": "Quelle est la différence entre «à» et «a» ?", "response": "«à» = préposition, «a» = verbe avoir 3e personne", "fake_reponse": ["Les deux sont des homonymes grammaticaux", "Même chose"]},
+            {"name": "Comment accorde-t-on un verbe pronominal au passé composé?", "response": "Avec l’auxiliaire être + accord si COD antéposé", "fake_reponse": ["Toujours aucun accord", "Avec avoir"]},
+            {"name": "Accorde: «Elle s’est lavé( ) la main»", "response": "Elle s’est lavée la main", "fake_reponse": ["Elle s’est lavé la main", "Elle s’est lavés la main"]},
+            {"name": "Quelle est la fonction de «les fleurs» dans «Je vois les fleurs»?", "response": "COD", "fake_reponse": ["Sujet", "Complément circonstanciel"]},
+            {"name": "Quelle est la nature de «rapidement»?", "response": "Adverbe", "fake_reponse": ["Adjectif", "Nom"]},
+            {"name": "Qu’est-ce qu’un participe présent?", "response": "Un verbe en -ant utilisé comme adjectif ou adverbe", "fake_reponse": ["Un temps du futur", "Un nom"]},
+            {"name": "Accorde «un amas (blanc)»", "response": "un amas blanc", "fake_reponse": ["un amas blanche", "un amas blanches"]},
+            {"name": "Quand utilise-t-on le subjonctif?", "response": "Après certains verbes exprimant le doute, le désir, la crainte", "fake_reponse": ["Après tous les verbes", "Seulement dans le passé"]},
+            {"name": "Quel est l’adjectif possessif pour «nous»?", "response": "Notre / nos", "fake_reponse": ["Leur", "Votre"]},
+            {"name": "Quelle est la différence entre «son» et «sont»?", "response": "son = adjectif possessif, sont = verbe être 3e pluriel", "fake_reponse": ["Même chose", "Un est archaïque"]},
+            {"name": "Quelle classe grammaticale est «et»?", "response": "Conjonction de coordination", "fake_reponse": ["Préposition", "Adverbe"]},
+            {"name": "Accorde «nous avons (voir)» au passé composé", "response": "nous avons vu", "fake_reponse": ["nous avons voir", "nous avons voient"]},
+            {"name": "Qu’est-ce qu’un complément circonstanciel?", "response": "Informations sur lieu, temps, manière…", "fake_reponse": ["Sujet du verbe", "Adjectif"]},
+            {"name": "Quelle est la règle d’accord du pluriel en -eu?", "response": "On ajoute un x (ex: un feu → des feux)", "fake_reponse": ["On ajoute un s", "Change le u en o"]},
+            {"name": "Quand met-on un accent circonflexe sur «âge» ?", "response": "Indique une disparition de s ancien", "fake_reponse": ["C’est juste un style", "Pour marquer la voix"]}
           ]
         },
         {
@@ -372,7 +372,7 @@
         {
           "name": "Nombres & calculs",
           "questions": [
-            {"name": "⅗ + 2¼ = ?", "response": "2 11⁄20", "fake_reponse": ["2", "⅗"]},
+            {"name": "⅗ + 2¼ = ?", "response": "211⁄20", "fake_reponse": ["2", "⅗"]},
             {"name": "5 × (–3) = ?", "response": "–15", "fake_reponse": ["15", "–8"]},
             {"name": "√144 = ?", "response": "12", "fake_reponse": ["11", "14"]},
             {"name": "15 % de 200 = ?", "response": "30", "fake_reponse": ["15", "300"]},
@@ -386,7 +386,7 @@
             {"name": "M–M = ?", "response": "0 pour tout M", "fake_reponse": ["M", "2M"]},
             {"name": "Decimal de ⅖ = ?", "response": "0,4", "fake_reponse": ["0,2", "2"]},
             {"name": "3,2 + 4,8 = ?", "response": "8", "fake_reponse": ["7", "9"]},
-            {"name": "Quelle est la racine cubique de 27 ?", "response": "3", "fake_reponse": ["9", "1"]}
+            {"name": "Quelle est la racine cubique de 27?", "response": "3", "fake_reponse": ["9", "1"]}
           ]
         },
         {

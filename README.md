@@ -42,7 +42,7 @@ Vous pouvez modifier ou ajouter des matières, chapitres et questions dans le fi
 
 ## 🚢 Déploiement
 
-Pour générer une version de production :
+Pour générer une version de production:
 ```sh
 npm run build
 ```
