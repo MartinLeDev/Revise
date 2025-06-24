@@ -1,33 +1,52 @@
-# Revise
+# 🚀 Revise
 
-This template should help get you started developing with Vue 3 in Vite.
+Revise est une application web de quiz éducatif développée avec Vue 3 et Vite. Elle permet de réviser des notions scientifiques à travers des questions à choix multiples, organisées par matières et chapitres.
 
-## Recommended IDE Setup
+## ✨ Fonctionnalités principales
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- 🎯 Sélection d'une matière et d'un chapitre, ou mode aléatoire
+- ❓ Affichage d'une question à la fois avec plusieurs réponses possibles
+- ✅ Indication immédiate de la bonne ou mauvaise réponse
+- 📊 Barre de progression dynamique
+- 🔄 Boutons de navigation adaptés (recommencer, retour à l'accueil, etc.)
+- 📱 Interface responsive adaptée au mobile et au desktop
 
-## Type Support for `.vue` Imports in TS
+## 🛠️ Technologies utilisées
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- [Vue 3](https://vuejs.org/) (Composition API)
+- [Vite](https://vitejs.dev/) pour le développement rapide
+- TypeScript pour la robustesse du code
+- 🎨 CSS personnalisé pour le style
 
-## Customize configuration
+## ⚡ Installation et lancement
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+1. Installez les dépendances :
+   ```sh
+   npm install
+   ```
+2. Lancez le serveur de développement :
+   ```sh
+   npm run dev
+   ```
+3. Accédez à l'application sur [http://localhost:5173](http://localhost:5173) (ou le port indiqué)
 
-## Project Setup
+## 🗂️ Structure du projet
 
-```sh
-npm install
-```
+- `src/views/HomeView.vue` : composant principal du quiz
+- `src/assets/main.css` : styles globaux
+- `example.json` : exemple de structure de données pour les matières, chapitres et questions
 
-### Compile and Hot-Reload for Development
+## 🧩 Personnalisation
 
-```sh
-npm run dev
-```
+Vous pouvez modifier ou ajouter des matières, chapitres et questions dans le fichier `example.json` pour adapter le quiz à vos besoins.
 
-### Type-Check, Compile and Minify for Production
+## 🚢 Déploiement
 
+Pour générer une version de production :
 ```sh
 npm run build
 ```
+
+---
+
+Projet réalisé avec Vue 3, Vite et TypeScript. 🦉
