@@ -1,0 +1,44 @@
+{
+  "matieres" : [
+    {
+      "id": "french",
+      "name": "Français"
+    },
+    {
+      "id": "hg",
+      "name": "Histoire Géographie"
+    }
+    ,
+    {
+      "id" : "math",
+      "name" : "Mathematiques"
+    },
+    {
+      "id" : "physique",
+      "name" : "Physique Chimie"
+    },
+    {
+      "id" : "svt",
+      "name" : "Sciences de la Vie et de la Terre"
+    }
+  ],
+  "chapters" : [
+    {
+      "matiere": "hg",
+      "name": "La première guerre mondiale",
+      "id": "fgm",
+      "questions": [
+        {
+          "name": "Quelle aliance est formée par la France, le Royaume-Uni et la Russie ?",
+          "response" : "La Triple Entente",
+          "fake_reponse" : ["La Triple Alliance"]
+        },
+        {
+          "name": "Qui est François Ferdinand ?",
+          "response" : "L'archiduc d'Autriche-Hongrie",
+          "fake_reponse" : ["Le président de France", "Le roi des États-Unis", "un type random"]
+        }
+      ]
+    }
+  ]
+}

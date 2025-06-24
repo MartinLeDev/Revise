@@ -1,0 +1,520 @@
+{
+  "matieres": [
+    {
+      "id": "hg",
+      "name": "Histoire Géographie",
+      "chapters": [
+        {
+          "name": "🇫🇷 La France pendant la Seconde Guerre mondiale",
+          "questions": [
+            {
+              "name": "Que signifie le sigle CNR ?",
+              "response": "Conseil National de la Résistance",
+              "fake_reponse": ["Conseil National de Résolution", "Conseil National Républicain"]
+            },
+            {
+              "name": "Quelle est la devise du régime de Vichy ?",
+              "response": "Travail, Famille, Patrie",
+              "fake_reponse": ["Liberté, Égalité, Fraternité", "Force, Honneur, Nation"]
+            },
+            {
+              "name": "Que signifie STO ?",
+              "response": "Service du Travail Obligatoire",
+              "fake_reponse": ["Service du Transport Officiel", "Service Territorial Organisé"]
+            },
+            {
+              "name": "Que sont les FFI ?",
+              "response": "Forces Françaises de l'Intérieur",
+              "fake_reponse": ["Forces de la France Infiltrée", "Forces Françaises Internationales"]
+            },
+            {
+              "name": "Quand l'armistice de Rethondes est-il signé ?",
+              "response": "22 juin 1940",
+              "fake_reponse": ["17 juin 1940", "18 juin 1940"]
+            },
+            {
+              "name": "Quand a lieu le discours de Pétain annonçant l'arrêt des combats ?",
+              "response": "17 juin 1940",
+              "fake_reponse": ["18 juin 1940", "22 juin 1940"]
+            },
+            {
+              "name": "Quelle est la date de l’appel du général de Gaulle ?",
+              "response": "18 juin 1940",
+              "fake_reponse": ["17 juin 1940", "22 juin 1940"]
+            },
+            {
+              "name": "Combien de civils fuient vers le Sud pendant l'exode ?",
+              "response": "8 à 9 millions",
+              "fake_reponse": ["5 à 6 millions", "10 à 11 millions"]
+            },
+            {
+              "name": "Quel est le rôle de Jean Moulin dans la Résistance ?",
+              "response": "Unifier les réseaux de résistance à travers le CNR",
+              "fake_reponse": ["Diriger la propagande allemande", "Fonder les FFL"]
+            },
+            {
+              "name": "Quelle armée occupe la moitié du territoire français en juin 1940 ?",
+              "response": "L'Allemagne nazie",
+              "fake_reponse": ["L'URSS", "Les États-Unis"]
+            },
+            {
+              "name": "Quelle est la conséquence immédiate de l'invasion allemande ?",
+              "response": "Un exode massif de la population",
+              "fake_reponse": ["Une guerre civile", "Une révolution"]
+            },
+            {
+              "name": "Quel est le message de l’appel du 18 juin 1940 ?",
+              "response": "Appel à la résistance face à l’occupation allemande",
+              "fake_reponse": ["Appel à collaborer avec le Reich", "Appel à fuir le pays"]
+            },
+            {
+              "name": "Quelle pratique alimentaire est mise en place pendant l’Occupation ?",
+              "response": "Le rationnement",
+              "fake_reponse": ["La grève de la faim", "L'interdiction du sucre"]
+            },
+            {
+              "name": "Quelle est l’origine des pénuries pendant l’Occupation ?",
+              "response": "Les réquisitions allemandes",
+              "fake_reponse": ["Les sanctions de l’ONU", "Les grèves des agriculteurs"]
+            },
+            {
+              "name": "Pourquoi cette période est-elle appelée « les années noires » ?",
+              "response": "À cause des pénuries, de la propagande et des exécutions",
+              "fake_reponse": ["Parce qu’il n’y avait plus de lumière", "Parce que c’était l’hiver"]
+            }
+          ]
+        },
+        {
+          "name": "👤 Les Régimes Totalitaires du XXe siècle",
+          "questions": [
+            {
+              "name": "Qu'est-ce qu'un régime totalitaire ?",
+              "response": "Un système politique avec culte du chef, propagande et contrôle total de la société",
+              "fake_reponse": ["Une démocratie autoritaire", "Un régime multipartite"]
+            },
+            {
+              "name": "Quel est un trait fondamental d’un régime totalitaire ?",
+              "response": "Un seul parti politique",
+              "fake_reponse": ["Un multipartisme modéré", "Une monarchie parlementaire"]
+            },
+            {
+              "name": "Quel rôle joue le chef dans un régime totalitaire ?",
+              "response": "Il incarne l’État et dirige sans partage",
+              "fake_reponse": ["Il représente l’opinion publique", "Il est élu tous les 5 ans"]
+            },
+            {
+              "name": "Quelle organisation assurait la surveillance en URSS ?",
+              "response": "La NKVD",
+              "fake_reponse": ["La Gestapo", "La CIA"]
+            },
+            {
+              "name": "Quel est le rôle de la propagande dans les régimes totalitaires ?",
+              "response": "Manipuler l’opinion et diffuser l’idéologie",
+              "fake_reponse": ["Informer objectivement", "Promouvoir la démocratie"]
+            },
+            {
+              "name": "Quel est un exemple de régime totalitaire en Allemagne ?",
+              "response": "Le régime nazi d'Hitler",
+              "fake_reponse": ["La République de Weimar", "La monarchie de Bismarck"]
+            },
+            {
+              "name": "Quel régime totalitaire a été dirigé par Staline ?",
+              "response": "L’URSS (1924-1953)",
+              "fake_reponse": ["L’Allemagne nazie", "L’Italie fasciste"]
+            },
+            {
+              "name": "Quelle est l’idéologie du régime nazi ?",
+              "response": "Nationalisme extrême, racisme, antisémitisme",
+              "fake_reponse": ["Socialisme démocratique", "Libéralisme économique"]
+            },
+            {
+              "name": "Quelle était l’idéologie de Staline ?",
+              "response": "Communisme et dictature du prolétariat",
+              "fake_reponse": ["Capitalisme autoritaire", "Fascisme libéral"]
+            },
+            {
+              "name": "Quels moyens utilisaient les nazis pour réprimer ?",
+              "response": "Gestapo, SS, propagande, terreur",
+              "fake_reponse": ["ONU, UNESCO, presse libre"]
+            },
+            {
+              "name": "Quels crimes sont associés aux régimes totalitaires ?",
+              "response": "Crimes contre l’humanité, purges, génocides",
+              "fake_reponse": ["Réformes sociales", "Actions humanitaires"]
+            },
+            {
+              "name": "Qu’est-ce que le culte de la personnalité ?",
+              "response": "La vénération du chef comme un symbole national",
+              "fake_reponse": ["Un concours de popularité", "Une politique artistique"]
+            },
+            {
+              "name": "Quel type de liberté est supprimé sous les régimes totalitaires ?",
+              "response": "Liberté d'expression",
+              "fake_reponse": ["Liberté de consommer", "Liberté religieuse"]
+            },
+            {
+              "name": "Quelles institutions sont contrôlées dans un régime totalitaire ?",
+              "response": "Éducation, culture, médias",
+              "fake_reponse": ["Entreprises privées", "Organisations caritatives"]
+            },
+            {
+              "name": "Quelles leçons ont été tirées des régimes totalitaires ?",
+              "response": "L’importance de défendre la démocratie et les droits de l’homme",
+              "fake_reponse": ["Le besoin d’un État fort", "L’intérêt du culte du chef"]
+            }
+          ]
+        },{
+          "name": "🇩🇪 Le Troisième Reich (1933-1945)",
+          "questions": [
+            {
+              "name": "Qu’est-ce que le Troisième Reich ?",
+              "response": "L’Allemagne nazie dirigée par Hitler de 1933 à 1945",
+              "fake_reponse": ["La monarchie prussienne", "L’Empire austro-hongrois"]
+            },
+            {
+              "name": "Qui est le chef du Troisième Reich ?",
+              "response": "Adolf Hitler",
+              "fake_reponse": ["Benito Mussolini", "Joseph Staline"]
+            },
+            {
+              "name": "Quel événement déclenche la Seconde Guerre mondiale ?",
+              "response": "L’invasion de la Pologne le 1er septembre 1939",
+              "fake_reponse": ["Le bombardement de Pearl Harbor", "L’attaque de la France"]
+            },
+            {
+              "name": "Quel est le rôle de la propagande nazie ?",
+              "response": "Contrôler l’opinion publique et diffuser l’idéologie nazie",
+              "fake_reponse": ["Promouvoir la démocratie", "Favoriser le commerce"]
+            },
+            {
+              "name": "Quel ministre est responsable de la propagande ?",
+              "response": "Joseph Goebbels",
+              "fake_reponse": ["Heinrich Himmler", "Albert Speer"]
+            },
+            {
+              "name": "Quelles sont les lois qui excluent les Juifs ?",
+              "response": "Les lois de Nuremberg (1935)",
+              "fake_reponse": ["Les lois de Versailles", "Les lois de Berlin"]
+            },
+            {
+              "name": "Combien de Juifs ont été exterminés pendant la Shoah ?",
+              "response": "Environ 6 millions",
+              "fake_reponse": ["1 million", "10 millions"]
+            },
+            {
+              "name": "Quel territoire est annexé par l’Allemagne en 1938 ?",
+              "response": "L’Autriche (Anschluss)",
+              "fake_reponse": ["La Pologne", "La Belgique"]
+            },
+            {
+              "name": "Quelle date marque la fin du Troisième Reich ?",
+              "response": "Le 8 mai 1945",
+              "fake_reponse": ["1er janvier 1946", "10 mai 1944"]
+            },
+            {
+              "name": "Quel tribunal juge les responsables nazis ?",
+              "response": "Le procès de Nuremberg",
+              "fake_reponse": ["Le tribunal de La Haye", "Le procès de Berlin"]
+            }
+          ]
+        },{
+          "name": "🌍 L'Union Soviétique (URSS)",
+          "questions": [
+            {
+              "name": "Qu'est-ce que l'URSS ?",
+              "response": "Un État fédéral communiste fondé en 1922, dirigé par le Parti communiste jusqu'en 1991",
+              "fake_reponse": ["Une monarchie européenne", "Une démocratie libérale"]
+            },
+            {
+              "name": "Quelle révolution a conduit à la création de l'URSS ?",
+              "response": "La Révolution russe de 1917",
+              "fake_reponse": ["La Révolution française", "La Révolution américaine"]
+            },
+            {
+              "name": "Qui a dirigé la Révolution d'Octobre ?",
+              "response": "Lénine",
+              "fake_reponse": ["Staline", "Trotsky"]
+            },
+            {
+              "name": "Quelle est la période du règne de Staline ?",
+              "response": "1924-1953",
+              "fake_reponse": ["1917-1924", "1953-1960"]
+            },
+            {
+              "name": "Qu'est-ce que la collectivisation ?",
+              "response": "La mise en commun des terres agricoles sous contrôle étatique",
+              "fake_reponse": ["La privatisation des terres", "La mécanisation individuelle"]
+            },
+            {
+              "name": "Quel organe assurait la répression en URSS ?",
+              "response": "La police secrète NKVD (puis KGB)",
+              "fake_reponse": ["La Gestapo", "La CIA"]
+            },
+            {
+              "name": "Qu'est-ce que le goulag ?",
+              "response": "Un système de camps de travail forcé pour les opposants politiques",
+              "fake_reponse": ["Une école militaire", "Un parti politique"]
+            },
+            {
+              "name": "Quelle guerre a opposé l'URSS aux États-Unis après 1947 ?",
+              "response": "La Guerre froide",
+              "fake_reponse": ["La Seconde Guerre mondiale", "La Guerre de Corée"]
+            },
+            {
+              "name": "Quand l'URSS a-t-elle été dissoute ?",
+              "response": "1991",
+              "fake_reponse": ["1989", "2000"]
+            },
+            {
+              "name": "Quel est le rôle du Parti communiste en URSS ?",
+              "response": "Il contrôle tous les aspects de la vie politique et sociale",
+              "fake_reponse": ["Il est une opposition tolérée", "Il organise des élections libres"]
+            }
+          ]
+        }
+
+
+
+
+
+      ]
+    },{
+      "id": "french",
+      "name": "Français",
+      "chapters": [
+        {
+          "name": "Analyse de texte / Lecture",
+          "questions": [
+            {"name": "Qui est le narrateur dans « Le Petit Prince » ?", "response": "Un aviateur-pilote", "fake_reponse": ["Le petit prince", "Un renard"]},
+            {"name": "Quelle figure de style est « la nuit m’a dit » ?", "response": "Métaphore", "fake_reponse": ["Anaphore", "Ironie"]},
+            {"name": "Quel est le thème principal de « Demain, dès l’aube » ?", "response": "Le deuil", "fake_reponse": ["L’amour", "L’amitié"]},
+            {"name": "Qui raconte l’histoire dans « Le Cid » de Corneille ?", "response": "Rodrigue", "fake_reponse": ["Cid", "Don Fernand"]},
+            {"name": "Quelle est la structure d’une fable de La Fontaine ?", "response": "Introduction, récit, morale", "fake_reponse": ["Thèse, antithèse, synthèse", "Exposition, nœud, dénouement"]},
+            {"name": "Définis l’ellipse narrative", "response": "Elle saute un moment dans le récit", "fake_reponse": ["Elle répète une scène", "Elle ferme un paragraphe"]},
+            {"name": "Quel poète écrit « Demain, dès l’aube » ?", "response": "Victor Hugo", "fake_reponse": ["Charles Baudelaire", "Paul Verlaine"]},
+            {"name": "Quel registre est utilisé dans une tragédie classique ?", "response": "Tragique", "fake_reponse": ["Comique", "Lyrique"]},
+            {"name": "Qu’est-ce qu’un personnage éponyme ?", "response": "Le personnage donne son nom à l’œuvre", "fake_reponse": ["Le personnage secondaire", "Le narrateur"]},
+            {"name": "Quel temps utilise-t-on souvent dans un récit au passé ?", "response": "Imparfait et passé simple", "fake_reponse": ["Présent et futur simple", "Plus-que-parfait uniquement"]},
+            {"name": "Que signifie « allégorie » ?", "response": "Représentation abstraite concrète", "fake_reponse": ["Répétition de son", "Opposition brutale"]},
+            {"name": "Qui est l’auteur des Fables ?", "response": "Jean de La Fontaine", "fake_reponse": ["Voltaire", "Racine"]},
+            {"name": "Donne un exemple de personnification", "response": "Le vent chantait dans les arbres", "fake_reponse": ["Le chat boit du lait", "Il court vite"]},
+            {"name": "Quelle est la morale d’une fable ?", "response": "Une leçon universelle", "fake_reponse": ["Un simple divertissement", "Un slogan publicitaire"]},
+            {"name": "Que désigne le champ lexical de la guerre dans un texte ?", "response": "Les mots liés à la guerre", "fake_reponse": ["Les mots positifs", "Les chiffres exclusivement"]},
+            {"name": "Quel est le point de vue narratif de la 1re personne ?", "response": "Je raconte l’histoire", "fake_reponse": ["Il raconte tout", "Tu raconte"]}
+          ]
+        },
+        {
+          "name": "Grammaire / Orthographe",
+          "questions": [
+            {"name": "Quelle est la différence entre « à » et « a » ?", "response": "« à » = préposition, « a » = verbe avoir 3e personne", "fake_reponse": ["Les deux sont des homonymes grammaticaux", "Même chose"]},
+            {"name": "Comment accorde-t-on un verbe pronominal au passé composé ?", "response": "Avec l’auxiliaire être + accord si COD antéposé", "fake_reponse": ["Toujours aucun accord", "Avec avoir"]},
+            {"name": "Accorde : « Elle s’est lavé( ) la main »", "response": "Elle s’est lavée la main", "fake_reponse": ["Elle s’est lavé la main", "Elle s’est lavés la main"]},
+            {"name": "Quelle est la fonction de « les fleurs » dans « Je vois les fleurs » ?", "response": "COD", "fake_reponse": ["Sujet", "Complément circonstanciel"]},
+            {"name": "Quelle est la nature de « rapidement » ?", "response": "Adverbe", "fake_reponse": ["Adjectif", "Nom"]},
+            {"name": "Qu’est-ce qu’un participe présent ?", "response": "Un verbe en -ant utilisé comme adjectif ou adverbe", "fake_reponse": ["Un temps du futur", "Un nom"]},
+            {"name": "Accorde « un amas (blanc) »", "response": "un amas blanc", "fake_reponse": ["un amas blanche", "un amas blanches"]},
+            {"name": "Quand utilise-t-on le subjonctif ?", "response": "Après certains verbes exprimant le doute, le désir, la crainte", "fake_reponse": ["Après tous les verbes", "Seulement dans le passé"]},
+            {"name": "Quel est l’adjectif possessif pour « nous » ?", "response": "Notre / nos", "fake_reponse": ["Leur", "Votre"]},
+            {"name": "Quelle est la différence entre « son » et « sont » ?", "response": "son = adjectif possessif, sont = verbe être 3e pluriel", "fake_reponse": ["Même chose", "Un est archaïque"]},
+            {"name": "Quelle classe grammaticale est « et » ?", "response": "Conjonction de coordination", "fake_reponse": ["Préposition", "Adverbe"]},
+            {"name": "Accorde « nous avons (voir) » au passé composé", "response": "nous avons vu", "fake_reponse": ["nous avons voir", "nous avons voient"]},
+            {"name": "Qu’est-ce qu’un complément circonstanciel ?", "response": "Informations sur lieu, temps, manière…", "fake_reponse": ["Sujet du verbe", "Adjectif"]},
+            {"name": "Quelle est la règle d’accord du pluriel en -eu ?", "response": "On ajoute un x (ex: un feu → des feux)", "fake_reponse": ["On ajoute un s", "Change le u en o"]},
+            {"name": "Quand met-on un accent circonflexe sur « âge » ?", "response": "Indique une disparition de s ancien", "fake_reponse": ["C’est juste un style", "Pour marquer la voix"]}
+          ]
+        },
+        {
+          "name": "Conjugaison",
+          "questions": [
+            {"name": "Imparfait 3e pl de aller", "response": "ils allaient", "fake_reponse": ["ils allèrent", "ils allait"]},
+            {"name": "Futur simple 1re pers sing de être", "response": "je serai", "fake_reponse": ["je serais", "je été"]},
+            {"name": "Conditionnel présent 2e pers plur de pouvoir", "response": "vous pourriez", "fake_reponse": ["vous pourrez", "vous pouviez"]},
+            {"name": "Plus-que-parfait 3e pers sing de finir", "response": "il avait fini", "fake_reponse": ["il avait finissais", "il aurait fini"]},
+            {"name": "Passé simple 1re pers plur de venir", "response": "nous vînmes", "fake_reponse": ["nous venions", "nous vins"]},
+            {"name": "Subjonctif présent 3e pers sing de faire", "response": "qu’il fasse", "fake_reponse": ["qu’il faisait", "qu’il fera"]},
+            {"name": "Gerondif de savoir", "response": "en sachant", "fake_reponse": ["en savant", "sachant"]},
+            {"name": "Infinitif passé de terminer", "response": "avoir terminé", "fake_reponse": ["terminer", "terminé"]},
+            {"name": "Passé composé 1re pers plur de lire", "response": "nous avons lu", "fake_reponse": ["nous avons lus", "nous avons lire"]},
+            {"name": "Futur antérieur 3e pers plur de partir", "response": "ils seront partis", "fake_reponse": ["ils seront parti", "ils auront parti"]},
+            {"name": "Imparfait 2e pers sing de voir", "response": "tu voyais", "fake_reponse": ["tu voyas", "tu voyais ??"]},
+            {"name": "Présent 1re pers sing de finir", "response": "je finis", "fake_reponse": ["je finissais", "je finisse"]},
+            {"name": "Conditionnel passé 1re pers sing de devoir", "response": "j’aurais dû", "fake_reponse": ["j’aurais dûe", "je aurais dû"]},
+            {"name": "Subjonctif imparfait 3e pers sing de venir", "response": "qu’il vînt", "fake_reponse": ["qu’il venait", "qu’il vinnt"]},
+            {"name": "Passé simple 2e pers sing de dire", "response": "tu dis", "fake_reponse": ["tu disais", "tu dires"]}
+          ]
+        },
+        {
+          "name": "Expression écrite / Rédaction",
+          "questions": [
+            {"name": "Structure d’un paragraphe argumentatif", "response": "Intro, argument + exemple, conclusion", "fake_reponse": ["Thèse, antithèse", "Titre, sous‑titre"]},
+            {"name": "Comment commencer une conclusion", "response": "En résumant et ouvrant", "fake_reponse": ["Par un nouveau sujet", "Par un exemple"]},
+            {"name": "Qu’est‑ce qu’une transition", "response": "Lien logique entre deux idées", "fake_reponse": ["Phrase sans rapport", "Un titre"]},
+            {"name": "Comment soigner le vocabulaire", "response": "Varier les mots, éviter répétitions", "fake_reponse": ["Mettre toujours le même mot", "Utiliser du jargon"]},
+            {"name": "Comment construire une phrase complexe", "response": "Coordination ou subordination", "fake_reponse": ["Toujours simple", "En inversant"]},
+            {"name": "Quel temps privilégier dans un texte argumentatif", "response": "Présent de l’argumentation", "fake_reponse": ["Imparfait seulement", "Plus‑que‑parfait"]},
+            {"name": "Comment vérifier l’orthographe", "response": "Relire ou utiliser un dictionnaire", "fake_reponse": ["Ignorer", "Changer tout en majuscules"]},
+            {"name": "Pourquoi citer un exemple", "response": "Pour illustrer l’idée", "fake_reponse": ["Pour faire joli", "Parce que c’est obligatoire"]},
+            {"name": "Comment introduire un sujet", "response": "Accroche + présentation du thème", "fake_reponse": ["Commencer la conclusion", "Entamer par une question trop vague"]},
+            {"name": "Qu’est‑ce que la cohérence", "response": "Liens logiques entre les parties", "fake_reponse": ["Passer d’un thème à un autre sans lien", "Répéter le même mot"]},
+            {"name": "Quelle longueur attendue pour un paragraphe", "response": "Une dizaine de lignes", "fake_reponse": ["Un mot", "Un roman"]},
+            {"name": "Comment éviter les répétitions", "response": "Synonymes et reformulations", "fake_reponse": ["Changer rien", "Mettre des majuscules"]},
+            {"name": "Quel est le rôle de la conclusion", "response": "Clore le propos et ouvrir", "fake_reponse": ["Commencer un nouveau sujet", "Finir sans message"]},
+            {"name": "Quelle est l’importance du plan", "response": "Organiser les idées clairement", "fake_reponse": ["Le faire spécifiquement pour embêter", "Ignorer"]},
+            {"name": "Comment soigner la présentation", "response": "Titres, alinéas, écriture claire", "fake_reponse": ["Tout en un paragraphe", "Copier le brouillon"]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathématiques",
+      "chapters": [
+        {
+          "name": "Nombres & calculs",
+          "questions": [
+            {"name": "⅗ + 2¼ = ?", "response": "2 11⁄20", "fake_reponse": ["2", "⅗"]},
+            {"name": "5 × (–3) = ?", "response": "–15", "fake_reponse": ["15", "–8"]},
+            {"name": "√144 = ?", "response": "12", "fake_reponse": ["11", "14"]},
+            {"name": "15 % de 200 = ?", "response": "30", "fake_reponse": ["15", "300"]},
+            {"name": "2^5 = ?", "response": "32", "fake_reponse": ["25", "16"]},
+            {"name": "–(–7) = ?", "response": "7", "fake_reponse": ["–7", "0"]},
+            {"name": "PGCD de 18 et 24 = ?", "response": "6", "fake_reponse": ["12", "3"]},
+            {"name": "PPCM de 6 et 8 = ?", "response": "24", "fake_reponse": ["14", "48"]},
+            {"name": "8/12 simplifié = ?", "response": "2/3", "fake_reponse": ["4/6", "8/12"]},
+            {"name": "Convertir 0,75 en fraction = ?", "response": "3/4", "fake_reponse": ["75/100", "7/5"]},
+            {"name": "6 ÷ (–2) = ?", "response": "–3", "fake_reponse": ["3", "–12"]},
+            {"name": "M–M = ?", "response": "0 pour tout M", "fake_reponse": ["M", "2M"]},
+            {"name": "Decimal de ⅖ = ?", "response": "0,4", "fake_reponse": ["0,2", "2"]},
+            {"name": "3,2 + 4,8 = ?", "response": "8", "fake_reponse": ["7", "9"]},
+            {"name": "Quelle est la racine cubique de 27 ?", "response": "3", "fake_reponse": ["9", "1"]}
+          ]
+        },
+        {
+          "name": "Géométrie",
+          "questions": [
+            {"name": "Aire d’un triangle = ?", "response": "(base×hauteur)/2", "fake_reponse": ["base×hauteur", "base+hauteur/2"]},
+            {"name": "Périmètre d’un cercle = ?", "response": "2πr", "fake_reponse": ["πr²", "πd²"]},
+            {"name": "Surface d’un disque = ?", "response": "πr²", "fake_reponse": ["2πr", "πd"]},
+            {"name": "Angle droit = ?", "response": "90°", "fake_reponse": ["180°", "45°"]},
+            {"name": "Triangle isocèle = ?", "response": "Deux côtés égaux", "fake_reponse": ["Trois côtés égaux", "Aucun côté égal"]},
+            {"name": "Parallélogramme = ?", "response": "Opposé côtés parallèles", "fake_reponse": ["Tous côtés égaux", "Deux angles droits toujours"]},
+            {"name": "Rectangle = ?", "response": "Parallélogramme à angles droits", "fake_reponse": ["Carré", "Trapèze"]},
+            {"name": "Carré = ?", "response": "4 côtés égaux + angles droits", "fake_reponse": ["Rectangle allongé", "Losange"]},
+            {"name": "Hexagone régulier = ?", "response": "6 côtés égaux", "fake_reponse": ["5 côtés", "7 côtés"]},
+            {"name": "Volume d’un cube = ?", "response": "côté³", "fake_reponse": ["3×côté", "côté²"]},
+            {"name": "Théorème de Pythagore", "response": "a²+b²=c²", "fake_reponse": ["a²-b²=c²", "a+b=c"]},
+            {"name": "Triangle rectangle côté =", "response": "hyp²=cat1²+cat2²", "fake_reponse": ["hyp=cat1+cat2", "hyp²=cat1×cat2"]},
+            {"name": "Quelle est la symétrie centrale", "response": "point à l’opposé du centre", "fake_reponse": ["miroir vertical", "miroir horizontal"]},
+            {"name": "Angle complémentaire", "response": "somme 90°", "fake_reponse": ["somme 180°", "somme 360°"]},
+            {"name": "Angle supplémentaire", "response": "somme 180°", "fake_reponse": ["somme 90°", "somme 360°"]}
+          ]
+        },
+        {
+          "name": "Proportionnalité & statistiques",
+          "questions": [
+            {"name": "3 stylos coûtent 4,50 €, 7 coûtent ?", "response": "10,50 €", "fake_reponse": ["7 €", "12 €"]},
+            {"name": "Si 5 kg → 15 €, 8 kg → ?", "response": "24 €", "fake_reponse": ["23 €", "20 €"]},
+            {"name": "Graphique proportionnel = ? (ligne)", "response": "Droite passant par origine", "fake_reponse": ["Courbe", "Droite horizontale"]},
+            {"name": "Pourcentage de réussite 20/25 = ?", "response": "80 %", "fake_reponse": ["75 %", "85 %"]},
+            {"name": "Moyenne de 12, 14, 16 = ?", "response": "14", "fake_reponse": ["13", "15"]},
+            {"name": "Médiane de 3,5,7,9,11 = ?", "response": "7", "fake_reponse": ["6", "8"]},
+            {"name": "Mode de 1,2,2,3,3,3 = ?", "response": "3", "fake_reponse": ["2", "1"]},
+            {"name": "Effectif total = ?", "response": "somme des effectifs", "fake_reponse": ["diviser par 2", "multiplier"]},
+            {"name": "Fréquence = ?", "response": "effectif/total", "fake_reponse": ["effectif×total", "total/effectif"]},
+            {"name": "Tableau de proportionnalité", "response": "2 lignes : valeurs et correspondantes", "fake_reponse": ["1 ligne", "3 colonnes"]},
+            {"name": "Coefficient de proportionnalité", "response": "rapport constant entre deux quantités", "fake_reponse": ["différence constante", "produit"]},
+            {"name": "60 % de X = 30 → X = ?", "response": "50", "fake_reponse": ["80", "20"]},
+            {"name": "Graphique non proportionnel = ?", "response": "courbe ou droite ne passant pas par origine", "fake_reponse": ["toujours ligne droite", "toujours horizontal"]},
+            {"name": "Si Prix × quantité = total, calculer quantité", "response": "total/prix", "fake_reponse": ["total×prix", "prix/total"]},
+            {"name": "Conversion 2 000 g en kg = ?", "response": "2 kg", "fake_reponse": ["200 kg", "0,2 kg"]}
+          ]
+        },
+        {
+          "name": "Fonctions & tableaux de valeurs",
+          "questions": [
+            {"name": "Tracer y=2x–1, point à x=1 = ?", "response": "(1,1)", "fake_reponse": ["(1,−2)", "(0,2)"]},
+            {"name": "Fonction linéaire = ?", "response": "y=kx", "fake_reponse": ["y=kx+b", "y=bx²"]},
+            {"name": "Fonction affine = ?", "response": "y=kx+b", "fake_reponse": ["y=kx", "y=k"]},
+            {"name": "Si f(x)=3x+2, f(2)= ?", "response": "8", "fake_reponse": ["6", "7"]},
+            {"name": "On calcule un taux de variation par ?", "response": "(Δy/Δx)", "fake_reponse": ["(x/y)", "(y+x)"]},
+            {"name": "Tableau de valeurs complète = ?", "response": "paires (x; f(x))", "fake_reponse": ["juste x", "juste y"]},
+            {"name": "Quelle est l’image de 0 sous f(x)=−x+1 ?", "response": "1", "fake_reponse": ["−1", "0"]},
+            {"name": "Antécédent de 2 pour f(x)=x–1 ?", "response": "3", "fake_reponse": ["1", "−1"]},
+            {"name": "Fonction croissante = ?", "response": "k>0", "fake_reponse": ["k<0", "k=0"]},
+            {"name": "Fonction décroissante = ?", "response": "k<0", "fake_reponse": ["k>0", "k=1"]},
+            {"name": "f(x)=2x², fonction ?", "response": "parabole", "fake_reponse": ["droite", "ligne pointillée"]},
+            {"name": "Dans y=mx+q, q = ?", "response": "ordonnée à l’origine", "fake_reponse": ["coefficient directeur", "antécédent"]},
+            {"name": "Graphique linéaire = ?", "response": "droite", "fake_reponse": ["courbe", "segment"]},
+            {"name": "Valeur de f(x)=0x+5 = ?", "response": "5", "fake_reponse": ["0", "x"]},
+            {"name": "Domaine de définition standard = ?", "response": "tous réels", "fake_reponse": ["positifs", "entiers"]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physique",
+      "name": "Physique Chimie",
+      "chapters": [
+        {
+          "name": "Électricité",
+          "questions": [
+            {"name": "Que mesure un ampèremètre ?", "response": "L’intensité", "fake_reponse": ["La tension", "La résistance"]},
+            {"name": "Que mesure un voltmètre ?", "response": "La tension", "fake_reponse": ["L’intensité", "La puissance"]},
+            {"name": "Formule loi d’Ohm", "response": "U=RI", "fake_reponse": ["U=R/I", "I=U+R"]},
+            {"name": "Symbole résistance", "response": "R", "fake_reponse": ["U", "I"]},
+            {"name": "Unité de la résistance", "response": "Ohm (Ω)", "fake_reponse": ["Volt (V)", "Ampère (A)"]},
+            {"name": "Intensité d’un circuit en série", "response": "Même partout", "fake_reponse": ["Variable", "Nulle"]},
+            {"name": "Tension aux bornes en série", "response": "Se partage entre éléments", "fake_reponse": ["Identique à chaque borne", "Égale à 0"]},
+            {"name": "Que mesure un multimètre", "response": "Tension, intensité, résistance", "fake_reponse": ["Température", "Puissance"]}
+          ]
+        },
+        {
+          "name": "Matière et transformations",
+          "questions": [
+            {"name": "Quel est l’état de la matière solide ?", "response": "Forme définie, volume constant", "fake_reponse": ["Forme variable, volume variable", "Forme définie, volume variable"]},
+            {"name": "Quel est l’état de la matière liquide ?", "response": "Forme variable, volume constant", "fake_reponse": ["Forme définie, volume variable", "Forme variable, volume variable"]},
+            {"name": "Quel est l’état de la matière gazeuse ?", "response": "Forme et volume variables", "fake_reponse": ["Forme définie, volume constant", "Forme variable, volume constant"]},
+            {"name": "Changement d’état solide → liquide ?", "response": "Fusion", "fake_reponse": ["Vaporisation", "Condensation"]},
+            {"name": "Changement d’état liquide → gaz ?", "response": "Vaporisation", "fake_reponse": ["Condensation", "Solidification"]},
+            {"name": "Changement d’état gaz → liquide ?", "response": "Condensation", "fake_reponse": ["Vaporisation", "Fusion"]},
+            {"name": "Changement d’état liquide → solide ?", "response": "Solidification", "fake_reponse": ["Fusion", "Vaporisation"]},
+            {"name": "Quelle est la température de fusion de l’eau ?", "response": "0°C (273 K)", "fake_reponse": ["100°C (373 K)", "-10°C (263 K)"]},
+            {"name": "Quelle est la température d’ébullition de l’eau ?", "response": "100°C (373 K)", "fake_reponse": ["0°C (273 K)", "-10°C (263 K)"]},
+            {"name": "Qu’est-ce qu’un mélange homogène ?", "response": "Composition uniforme à l’œil nu", "fake_reponse": ["Différentes phases visibles", "Mélange solide-solide uniquement"]},
+            {"name": "Qu’est-ce qu’un mélange hétérogène ?", "response": "Phases distinctes visibles à l’œil nu", "fake_reponse": ["Composition uniforme à l’œil nu", "Mélange gazeux uniquement"]},
+            {"name": "Quelle est la formule chimique de l’eau ?", "response": "H₂O", "fake_reponse": ["CO₂", "O₂"]},
+            {"name": "Quelle est la formule chimique du dioxyde de carbone ?", "response": "CO₂", "fake_reponse": ["H₂O", "O₂"]},
+            {"name": "Qu’est-ce qu’une réaction chimique ?", "response": "Transformation de substances en d’autres", "fake_reponse": ["Changement d’état uniquement", "Séparation physique"]},
+            {"name": "Quel est le pH de l’eau pure ?", "response": "7 (neutre)", "fake_reponse": ["0 (acide)", "14 (basique)"]}
+
+          ]
+        }]
+      },
+    {
+      "id": "svt",
+      "name": "Sciences de la Vie et de la Terre",
+      "chapters": [
+        {
+          "name": "La planète Terre",
+          "questions": [
+            {"name": "Quel est le noyau de la Terre composé ?", "response": "Fer et nickel", "fake_reponse": ["Silicium", "Aluminium"]},
+            {"name": "Quel est le manteau terrestre ?", "response": "Couche entre croûte et noyau", "fake_reponse": ["Surface", "Noyau externe"]},
+            {"name": "La lithosphère = ?", "response": "Croûte + partie supérieure du manteau", "fake_reponse": ["Noyau", "Manteau interne"]},
+            {"name": "Magma → lave = ?", "response": "Quand sort du volcan", "fake_reponse": ["Quand sous croûte", "Quand refroidit"]},
+            {"name": "Plaques tectoniques = ?", "response": "Morceaux rigides de lithosphère", "fake_reponse": ["Movement de l’air", "Courants océaniques"]},
+            {"name": "Fosse océanique = ?", "response": "Zone subduction", "fake_reponse": ["Montagne", "Plaine marine"]},
+            {"name": "Quels mouvements créent tremblements ?", "response": "Plaques tectoniques", "fake_reponse": ["Vent solaire", "Courant marin"]},
+            {"name": "Rôle du manteau", "response": "Convection, plaque en mouvement", "fake_reponse": ["Création de lumière", "Émission de son"]},
+            {"name": "Quelle est l’écorce terrestre ?", "response": "Croûte", "fake_reponse": ["Noyau", "Manteau"]},
+            {"name": "Volcanisme effusif = ?", "response": "Lave fluide", "fake_reponse": ["Explosion violente", "Aucune lave"]},
+            {"name": "Volcanisme explosif = ?", "response": "Lave visqueuse + cendres", "fake_reponse": ["Juste lave fluide", "Pas d’éruption"]},
+            {"name": "Plaques convergentes = ?", "response": "Se rapprochent, subduction", "fake_reponse": ["S’écartent", "Glissent"]},
+            {"name": "Plaques divergentes = ?", "response": "S’écartent, dorsale", "fake_reponse": ["Convergentes", "Subduction"]},
+            {"name": "Quel gaz expulsé volcan ?", "response": "Dioxyde de carbone, vapeur d’eau", "fake_reponse": ["Hydrogène", "Ozone"]},
+            {"name": "Effet de serre = ?", "response": "Gaz retiennent chaleur", "fake_reponse": ["Refroidissent", "Produisent pluie"]}
+          ]
+        }
+      ]
+    }
+  ]
+}
