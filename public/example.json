@@ -2,7 +2,7 @@
   "matieres": [
     {
       "id": "hg",
-      "name": "Histoire Géographie",
+      "name": "🏰 Histoire Géographie",
       "chapters": [
         {
           "name": "🇫🇷 La France pendant la Seconde Guerre mondiale",
@@ -1160,7 +1160,7 @@
     },
     {
       "id": "french",
-      "name": "Français",
+      "name": "📖 Français",
       "chapters": [
         {
           "name": "Analyse de texte / Lecture",
@@ -2156,7 +2156,7 @@
     },
     {
       "id": "physique",
-      "name": "Physique Chimie",
+      "name": "⚡ Physique Chimie",
       "chapters": [
         {
           "name": "Électricité",
@@ -2356,7 +2356,7 @@
     },
     {
       "id": "svt",
-      "name": "Sciences de la Vie et de la Terre",
+      "name": "🧬 Sciences de la Vie et de la Terre",
       "chapters": [
         {
           "name": "La planète Terre",
