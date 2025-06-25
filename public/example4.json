@@ -269,125 +269,124 @@
               "name": "Quel est le rôle du Parti communiste en URSS ?",
               "response": "Il contrôle tous les aspects de la vie politique et sociale",
               "fake_reponse": ["Il est une opposition tolérée", "Il organise des élections libres"]
-            },
-            {
-              "name": "Monde depuis 1945",
-              "questions": [
-                {"name":"Qu’est‑ce que la décolonisation?","response":"Processus d’indépendance des colonies après 1945","fake_reponse":["Union des colonies","Retour au colonialisme"]},
-                {"name":"Quel pays obtient l’indépendance en 1962 après une guerre longue?","response":"Algérie","fake_reponse":["Canada","Indonésie"]},
-                {"name":"En quelle année la guerre froide commence‑t‑elle?","response":"1947","fake_reponse":["1939","1950"]},
-                {"name":"Quelle guerre illustre un conflit indirect de la guerre froide ?","response":"Guerre de Corée","fake_reponse":["Seconde Guerre mondiale","Napoléonienne"]},
-                {"name":"Quand prend fin officiellement la guerre froide?","response":"1989","fake_reponse":["1962","2001"]},
-                {"name":"Qu’est‑ce que l’ONU ?","response":"Organisation internationale créée en 1945 pour la paix","fake_reponse":["Organisation coloniale","Alliance militaire"]},
-                {"name":"Que signifie bipolarisation ?","response":"Monde divisé entre 2 super‑puissances","fake_reponse":["Monde unipolaire","Monde multipolaire"]},
-                {"name":"Quel est le symbole de la fin de la guerre froide ?","response":"Chute du mur de Berlin","fake_reponse":["Création de l’UE","Traité de Rome"]},
-                {"name":"Quand l’ONU est‑elle fondée?","response":"1945","fake_reponse":["1950","1939"]},
-                {"name":"Quel pays devient une super‑puissance après 1945?","response":"États‑Unis","fake_reponse":["France","Chine"]},
-                {"name":"Qu’est‑ce que la «détente» ?","response":"Période de relaxation des tensions en 1970","fake_reponse":["Fin de l’ONU","Guerre mondiale"]},
-                {"name":"Quel conflit a suivi la guerre froide dans les Balkans ?","response":"Guerres de Yougoslavie","fake_reponse":["Guerre de Cent Ans","Guerre de Trente Ans"]},
-                {"name":"Quand chute le mur de Berlin?","response":"1989","fake_reponse":["1991","1985"]},
-                {"name":"Qu’est‑ce que la mondialisation ?","response":"Développement des échanges à l’échelle mondiale","fake_reponse":["Isolement des pays","Colonisation"]},
-                {"name":"Quel type de conflits existe après 1989 ?","response":"Terrorisme, conflits régionaux","fake_reponse":["Guerres mondiales","Conflits préhistoriques"]}
-              ]
-            },
-            {
-              "name": "Indépendances et construction de nouveaux États",
-              "questions": [
-                {"name":"Quelle grande colonie est indépendante en 1947?","response":"Inde","fake_reponse":["Algérie","Viet Nam"]},
-                {"name":"Quel conflit mène à l’indépendance de l’Algérie?","response":"Guerre d’Algérie","fake_reponse":["Guerre du Viet Nam","Guerre de Corée"]},
-                {"name":"En quelle année l’Algérie devient‑elle indépendante?","response":"1962","fake_reponse":["1958","1970"]},
-                {"name":"Qu’est‑ce que la «Françafrique» ?","response":"Relation France‑Afrique post‑coloniale","fake_reponse":["Union politique","Monnaie commune"]},
-                {"name":"Quel empire disparaît après 1947?","response":"Empire britannique en Inde","fake_reponse":["Empire Ottoman","Empire Romain"]},
-                {"name":"Quel est le rôle de l’ONU dans la décolonisation?","response":"Soutien juridico‑politique","fake_reponse":["Coloniser","Sanctionner"]},
-                {"name":"Quel pays africain devient indépendant dès 1960 ?","response":"Sénégal","fake_reponse":["Espagne","Allemagne"]},
-                {"name":"Comment s’appelle le transfert de pouvoir colonial?","response":"Indépendance","fake_reponse":["Colonisation","Révolution agricole"]},
-                {"name":"Quel mouvement lutte pour l’indépendance ?","response":"FLN en Algérie","fake_reponse":["FNI en France","ANC en Australie"]},
-                {"name":"Que devient l’Inde après 1947?","response":"République indépendante","fake_reponse":["Colonie","Territoire neutre"]},
-                {"name":"Qu’est‑ce que le non-alignement ?","response":"Position neutre entre USA et URSS","fake_reponse":["Alliance avec USA","Alliance avec URSS"]},
-                {"name":"Une arme de la décolonisation ?","response":"Résistance populaire","fake_reponse":["Colonisation","Isolation"]},
-                {"name":"Quel type d’État naît souvent après l’indépendance?","response":"Nouveau État-nation","fake_reponse":["Empire","Colonie"]},
-                {"name":"Quel pays change de nom après indépendance?","response":"Côte d’Ivoire (de Haute‑Volta)","fake_reponse":["Namibie","Éthiopie"]},
-                {"name":"Quel rôle pour les anciens colonisateurs ?","response":"Maintien d’influences économiques","fake_reponse":["Aide militaire seulement","Aucune relation"]}
-              ]
-            },
-            {
-              "name": "Dynamiques territoriales de la France contemporaine",
-              "questions": [
-                {"name":"Qu’est‑ce qu’une aire urbaine?","response":"Ville‑centre + banlieue + pôles","fake_reponse":["Juste le centre","Campagne"]},
-                {"name":"Combien de régions en France métropolitaine?","response":"13","fake_reponse":["22","10"]},
-                {"name":"Quelle est la priorité des espaces productifs?","response":"Économie et emplois","fake_reponse":["Tourisme seulement","Agriculture seule"]},
-                {"name":"Donne un exemple d’espace productif agricole","response":"Région céréalière","fake_reponse":["Désert urbain","Forêt naturelle"]},
-                {"name":"Pourquoi les campagnes peu denses sont attractives?","response":"Paysage, calme, tourisme","fake_reponse":["Pollution","Surpopulation"]},
-                {"name":"Quel est l’enjeu des espaces de faible densité?","response":"Maintien des services","fake_reponse":["Expansion urbaine","Indifférence"]},
-                {"name":"Qu’est‑ce qu’une métropole?","response":"Grande ville influente","fake_reponse":["Village","Quartier"]},
-                {"name":"Donne un exemple de métropole française","response":"Paris","fake_reponse":["Lyon (non métropole)","Bordeaux"]},
-                {"name":"Quelle transformation urbaine se développe?","response":"Périurbanisation","fake_reponse":["Désertification","Ruralisation"]},
-                {"name":"Qu’est‑ce que la gentrification?","response":"Hausse prix logements de centre‑ville","fake_reponse":["Destruction centre‑ville","Constructions neuves"]},
-                {"name":"Quel rôle ont les transports?","response":"Relier territoires","fake_reponse":["Isoler","Polluer uniquement"]},
-                {"name":"Quel défi environnemental urbain?","response":"Pollution, bruit","fake_reponse":["Manque d’habitants","Trop de nature"]},
-                {"name":"Pourquoi aménager les villes?","response":"Mieux vivre et mobilité","fake_reponse":["Pour fermer","Pour embouteiller"]},
-                {"name":"Quelle politique pour rééquilibrer territoires?","response":"Aménagement régional","fake_reponse":["Aucune politique","Politique coloniale"]},
-                {"name":"Que favorise la mondialisation en France?","response":"Métropoles connectées","fake_reponse":["Campagnes isolées","Bassin minier uniquement"]}
-              ]
-            },
-            {
-              "name": "Aménagement du territoire",
-              "questions": [
-                {"name":"Pourquoi aménage‑t‑on un territoire?","response":"Réduire les inégalités","fake_reponse":["Pour isoler","Pour perdre"]},
-                {"name":"Qu’est‑ce que la politique de la ville?","response":"Améliorer quartiers défavorisés","fake_reponse":["Politique culturelle","Colonisation"]},
-                {"name":"Que vise un grand projet d’aménagement?","response":"Mobilité, logements, services","fake_reponse":["Raser les villes","Créer zones clandestines"]},
-                {"name":"Un exemple d’aménagement intermodal?","response":"Gares multimodales","fake_reponse":["Autoroute seule","Voie piétonne"]},
-                {"name":"Pourquoi réhabiliter une friche?","response":"Reconvertir sites industriels","fake_reponse":["Les abandonner","Les densifier"]},
-                {"name":"Quel est le rôle de l’État dans l’aménagement?","response":"Planifier projets territoriaux","fake_reponse":["Ignorer","Privatiser tout"]},
-                {"name":"Qu’est‑ce qu’une ZAD ?","response":"Zone à défendre (contestée)","fake_reponse":["Zone de développement","Zone agricole"]},
-                {"name":"Que sont les transports doux?","response":"Vélos, piétons","fake_reponse":["Voitures","Avions"]},
-                {"name":"Comment lutter contre la périurbanisation?","response":"Aménager les centres","fake_reponse":["Fermer les villes","Construire partout"]},
-                {"name":"Quel est l’objectif du « Plan vélo »?","response":"Encourager déplacements en vélo","fake_reponse":["Interdire vélos","Privatiser pistes"]},
-                {"name":"Pourquoi créer des zones industrielles?","response":"Concentrer zones productives","fake_reponse":["Les disperser","Les fermer"]},
-                {"name":"Qu’est‑ce qu’une SCOT?","response":"Schéma de cohérence territoriale","fake_reponse":["Plan de zonage militaire","Plan agricole"]},
-                {"name":"Quel financement pour aménagement?","response":"Public + privé","fake_reponse":["Privé seul","Public seul"]},
-                {"name":"Quel enjeu social pour l’aménagement?","response":"Cohésion sociale","fake_reponse":["Conflit social","Isolement"]},
-                {"name":"Pourquoi encourager les mobilités?","response":"Relier régions et métropoles","fake_reponse":["Pour les empêcher","Pour confiner"]}
-              ]
-            },
-            {
-              "name": "La France et l’Union européenne",
-              "questions": [
-                {"name":"Que signifie UE?","response":"Union européenne","fake_reponse":["Union Est","Unité Économique"]},
-                {"name":"Quand est fondée la CEE?","response":"1957","fake_reponse":["1945","1992"]},
-                {"name":"Quels sont les objectifs de l’UE?","response":"Paix, intégration, échanges","fake_reponse":["Conquête militaire","Isolement"]},
-                {"name":"Citer un espace à contrastes?","response":"Portugal vs Allemagne","fake_reponse":["France vs France","Italie vs Italie"]},
-                {"name":"Quel est le rôle du marché unique?","response":"Libre circulation biens et personnes","fake_reponse":["Bloquer échanges","Taxer l’Europe"]},
-                {"name":"Qu’est‑ce que l’euro?","response":"Monnaie commune de l’UE","fake_reponse":["Monnaie unique mondiale","Ancienne monnaie"]},
-                {"name":"Quel pays n’est pas dans la zone euro?","response":"Royaume‑Uni","fake_reponse":["France","Allemagne"]},
-                {"name":"Pourquoi l’UE agrandit‑elle ses membres?","response":"Renforcer coopération","fake_reponse":["Isoler États","Coloniser"]},
-                {"name":"Quel traité fondateur après 1957?","response":"Maastricht (1992)","fake_reponse":["Versailles","Rome"]},
-                {"name":"Quel est le Parlement de l’UE?","response":"Bruxelles/Strasbourg","fake_reponse":["Londres","Berlin"]},
-                {"name":"Qu’est‑ce que les fonds européens?","response":"Aides aux régions","fake_reponse":["Subventions coloniales","Prêts privés"]},
-                {"name":"Quel grand projet européen?","response":"Erasmus","fake_reponse":["NAFTA","OTAN"]},
-                {"name":"Que sont les eurodéputés?","response":"Députés élus au Parlement européen","fake_reponse":["Maires","Députés nationaux"]},
-                {"name":"Quel est l’enjeu climatique de l’UE?","response":"Neutralité carbone 2050","fake_reponse":["Colonisation spatiale","Aucune politique"]}
-              ]
-            },
-            {
-              "name": "Mobilités et migrations humaines",
-              "questions": [
-                {"name":"Que sont les mobilités quotidiennes?","response":"Déplacements domicile‑travail","fake_reponse":["Migrations définitives","Voyages touristiques"]},
-                {"name":"Citer un type de mobilité internationale?","response":"Migration économique","fake_reponse":["Balade locale","Randonnée"]},
-                {"name":"Qu’est‑ce qu’un migrant climatique?","response":"Personne déplacée par catastrophe naturelle","fake_reponse":["Touriste","Étudiant"]},
-                {"name":"Quel est l’impact des migrations?","response":"Diversité culturelle, tensions","fake_reponse":["Standardisation","Uniformité"]},
-                {"name":"Que sont les réfugiés?","response":"Personnes fuyant persécution","fake_reponse":["Touristes","Migrants économiques"]},
-                {"name":"Quel pays accueille beaucoup de migrants?","response":"France","fake_reponse":["Antarctique","Mars"]},
-                {"name":"Qu’est‑ce que l’exode rural?","response":"Départ des campagnes vers villes","fake_reponse":["Retour à la campagne","Immigration"]},
-                {"name":"Que signifie diaspora?","response":"Communauté dispersée hors pays","fake_reponse":["Ville isolée","Région forestière"]},
-                {"name":"Qu’est‑ce que la mondialisation des migrations?","response":"Flux migratoires globaux","fake_reponse":["Migration locale","Déplacement fluvial"]},
-                {"name":"Quel pays est un pays émetteur majeur?","response":"Maroc","fake_reponse":["France","Allemagne"]},
-                {"name":"Migration pendulaire, c’est quoi?","response":"Aller‑retour quotidien","fake_reponse":["Exode","Immigration"]},
-                {"name":"Push factor?","response":"Motif d’éloignement (guerre)","fake_reponse":["Motif touristique","Motif sportif"]},
-                {"name":"Pull factor?","response":"Attraction (emplois)","fake_reponse":["Agression","Pollution"]},
-                {"name":"Qu’est‑ce qu’un «brain drain» ?","response":"Fuite des cerveaux","fake_reponse":["Arrivée de cerveaux","Tourisme intellectuel"]}
-              ]
             }
+          ]
+        },{
+          "name": "Monde depuis 1945",
+          "questions": [
+            {"name":"Qu’est‑ce que la décolonisation?","response":"Processus d’indépendance des colonies après 1945","fake_reponse":["Union des colonies","Retour au colonialisme"]},
+            {"name":"Quel pays obtient l’indépendance en 1962 après une guerre longue?","response":"Algérie","fake_reponse":["Canada","Indonésie"]},
+            {"name":"En quelle année la guerre froide commence‑t‑elle?","response":"1947","fake_reponse":["1939","1950"]},
+            {"name":"Quelle guerre illustre un conflit indirect de la guerre froide ?","response":"Guerre de Corée","fake_reponse":["Seconde Guerre mondiale","Napoléonienne"]},
+            {"name":"Quand prend fin officiellement la guerre froide?","response":"1989","fake_reponse":["1962","2001"]},
+            {"name":"Qu’est‑ce que l’ONU ?","response":"Organisation internationale créée en 1945 pour la paix","fake_reponse":["Organisation coloniale","Alliance militaire"]},
+            {"name":"Que signifie bipolarisation ?","response":"Monde divisé entre 2 super‑puissances","fake_reponse":["Monde unipolaire","Monde multipolaire"]},
+            {"name":"Quel est le symbole de la fin de la guerre froide ?","response":"Chute du mur de Berlin","fake_reponse":["Création de l’UE","Traité de Rome"]},
+            {"name":"Quand l’ONU est‑elle fondée?","response":"1945","fake_reponse":["1950","1939"]},
+            {"name":"Quel pays devient une super‑puissance après 1945?","response":"États‑Unis","fake_reponse":["France","Chine"]},
+            {"name":"Qu’est‑ce que la «détente» ?","response":"Période de relaxation des tensions en 1970","fake_reponse":["Fin de l’ONU","Guerre mondiale"]},
+            {"name":"Quel conflit a suivi la guerre froide dans les Balkans ?","response":"Guerres de Yougoslavie","fake_reponse":["Guerre de Cent Ans","Guerre de Trente Ans"]},
+            {"name":"Quand chute le mur de Berlin?","response":"1989","fake_reponse":["1991","1985"]},
+            {"name":"Qu’est‑ce que la mondialisation ?","response":"Développement des échanges à l’échelle mondiale","fake_reponse":["Isolement des pays","Colonisation"]},
+            {"name":"Quel type de conflits existe après 1989 ?","response":"Terrorisme, conflits régionaux","fake_reponse":["Guerres mondiales","Conflits préhistoriques"]}
+          ]
+        },
+        {
+          "name": "Indépendances et construction de nouveaux États",
+          "questions": [
+            {"name":"Quelle grande colonie est indépendante en 1947?","response":"Inde","fake_reponse":["Algérie","Viet Nam"]},
+            {"name":"Quel conflit mène à l’indépendance de l’Algérie?","response":"Guerre d’Algérie","fake_reponse":["Guerre du Viet Nam","Guerre de Corée"]},
+            {"name":"En quelle année l’Algérie devient‑elle indépendante?","response":"1962","fake_reponse":["1958","1970"]},
+            {"name":"Qu’est‑ce que la «Françafrique» ?","response":"Relation France‑Afrique post‑coloniale","fake_reponse":["Union politique","Monnaie commune"]},
+            {"name":"Quel empire disparaît après 1947?","response":"Empire britannique en Inde","fake_reponse":["Empire Ottoman","Empire Romain"]},
+            {"name":"Quel est le rôle de l’ONU dans la décolonisation?","response":"Soutien juridico‑politique","fake_reponse":["Coloniser","Sanctionner"]},
+            {"name":"Quel pays africain devient indépendant dès 1960 ?","response":"Sénégal","fake_reponse":["Espagne","Allemagne"]},
+            {"name":"Comment s’appelle le transfert de pouvoir colonial?","response":"Indépendance","fake_reponse":["Colonisation","Révolution agricole"]},
+            {"name":"Quel mouvement lutte pour l’indépendance ?","response":"FLN en Algérie","fake_reponse":["FNI en France","ANC en Australie"]},
+            {"name":"Que devient l’Inde après 1947?","response":"République indépendante","fake_reponse":["Colonie","Territoire neutre"]},
+            {"name":"Qu’est‑ce que le non-alignement ?","response":"Position neutre entre USA et URSS","fake_reponse":["Alliance avec USA","Alliance avec URSS"]},
+            {"name":"Une arme de la décolonisation ?","response":"Résistance populaire","fake_reponse":["Colonisation","Isolation"]},
+            {"name":"Quel type d’État naît souvent après l’indépendance?","response":"Nouveau État-nation","fake_reponse":["Empire","Colonie"]},
+            {"name":"Quel pays change de nom après indépendance?","response":"Côte d’Ivoire (de Haute‑Volta)","fake_reponse":["Namibie","Éthiopie"]},
+            {"name":"Quel rôle pour les anciens colonisateurs ?","response":"Maintien d’influences économiques","fake_reponse":["Aide militaire seulement","Aucune relation"]}
+          ]
+        },
+        {
+          "name": "Dynamiques territoriales de la France contemporaine",
+          "questions": [
+            {"name":"Qu’est‑ce qu’une aire urbaine?","response":"Ville‑centre + banlieue + pôles","fake_reponse":["Juste le centre","Campagne"]},
+            {"name":"Combien de régions en France métropolitaine?","response":"13","fake_reponse":["22","10"]},
+            {"name":"Quelle est la priorité des espaces productifs?","response":"Économie et emplois","fake_reponse":["Tourisme seulement","Agriculture seule"]},
+            {"name":"Donne un exemple d’espace productif agricole","response":"Région céréalière","fake_reponse":["Désert urbain","Forêt naturelle"]},
+            {"name":"Pourquoi les campagnes peu denses sont attractives?","response":"Paysage, calme, tourisme","fake_reponse":["Pollution","Surpopulation"]},
+            {"name":"Quel est l’enjeu des espaces de faible densité?","response":"Maintien des services","fake_reponse":["Expansion urbaine","Indifférence"]},
+            {"name":"Qu’est‑ce qu’une métropole?","response":"Grande ville influente","fake_reponse":["Village","Quartier"]},
+            {"name":"Donne un exemple de métropole française","response":"Paris","fake_reponse":["Lyon (non métropole)","Bordeaux"]},
+            {"name":"Quelle transformation urbaine se développe?","response":"Périurbanisation","fake_reponse":["Désertification","Ruralisation"]},
+            {"name":"Qu’est‑ce que la gentrification?","response":"Hausse prix logements de centre‑ville","fake_reponse":["Destruction centre‑ville","Constructions neuves"]},
+            {"name":"Quel rôle ont les transports?","response":"Relier territoires","fake_reponse":["Isoler","Polluer uniquement"]},
+            {"name":"Quel défi environnemental urbain?","response":"Pollution, bruit","fake_reponse":["Manque d’habitants","Trop de nature"]},
+            {"name":"Pourquoi aménager les villes?","response":"Mieux vivre et mobilité","fake_reponse":["Pour fermer","Pour embouteiller"]},
+            {"name":"Quelle politique pour rééquilibrer territoires?","response":"Aménagement régional","fake_reponse":["Aucune politique","Politique coloniale"]},
+            {"name":"Que favorise la mondialisation en France?","response":"Métropoles connectées","fake_reponse":["Campagnes isolées","Bassin minier uniquement"]}
+          ]
+        },
+        {
+          "name": "Aménagement du territoire",
+          "questions": [
+            {"name":"Pourquoi aménage‑t‑on un territoire?","response":"Réduire les inégalités","fake_reponse":["Pour isoler","Pour perdre"]},
+            {"name":"Qu’est‑ce que la politique de la ville?","response":"Améliorer quartiers défavorisés","fake_reponse":["Politique culturelle","Colonisation"]},
+            {"name":"Que vise un grand projet d’aménagement?","response":"Mobilité, logements, services","fake_reponse":["Raser les villes","Créer zones clandestines"]},
+            {"name":"Un exemple d’aménagement intermodal?","response":"Gares multimodales","fake_reponse":["Autoroute seule","Voie piétonne"]},
+            {"name":"Pourquoi réhabiliter une friche?","response":"Reconvertir sites industriels","fake_reponse":["Les abandonner","Les densifier"]},
+            {"name":"Quel est le rôle de l’État dans l’aménagement?","response":"Planifier projets territoriaux","fake_reponse":["Ignorer","Privatiser tout"]},
+            {"name":"Qu’est‑ce qu’une ZAD ?","response":"Zone à défendre (contestée)","fake_reponse":["Zone de développement","Zone agricole"]},
+            {"name":"Que sont les transports doux?","response":"Vélos, piétons","fake_reponse":["Voitures","Avions"]},
+            {"name":"Comment lutter contre la périurbanisation?","response":"Aménager les centres","fake_reponse":["Fermer les villes","Construire partout"]},
+            {"name":"Quel est l’objectif du « Plan vélo »?","response":"Encourager déplacements en vélo","fake_reponse":["Interdire vélos","Privatiser pistes"]},
+            {"name":"Pourquoi créer des zones industrielles?","response":"Concentrer zones productives","fake_reponse":["Les disperser","Les fermer"]},
+            {"name":"Qu’est‑ce qu’une SCOT?","response":"Schéma de cohérence territoriale","fake_reponse":["Plan de zonage militaire","Plan agricole"]},
+            {"name":"Quel financement pour aménagement?","response":"Public + privé","fake_reponse":["Privé seul","Public seul"]},
+            {"name":"Quel enjeu social pour l’aménagement?","response":"Cohésion sociale","fake_reponse":["Conflit social","Isolement"]},
+            {"name":"Pourquoi encourager les mobilités?","response":"Relier régions et métropoles","fake_reponse":["Pour les empêcher","Pour confiner"]}
+          ]
+        },
+        {
+          "name": "La France et l’Union européenne",
+          "questions": [
+            {"name":"Que signifie UE?","response":"Union européenne","fake_reponse":["Union Est","Unité Économique"]},
+            {"name":"Quand est fondée la CEE?","response":"1957","fake_reponse":["1945","1992"]},
+            {"name":"Quels sont les objectifs de l’UE?","response":"Paix, intégration, échanges","fake_reponse":["Conquête militaire","Isolement"]},
+            {"name":"Citer un espace à contrastes?","response":"Portugal vs Allemagne","fake_reponse":["France vs France","Italie vs Italie"]},
+            {"name":"Quel est le rôle du marché unique?","response":"Libre circulation biens et personnes","fake_reponse":["Bloquer échanges","Taxer l’Europe"]},
+            {"name":"Qu’est‑ce que l’euro?","response":"Monnaie commune de l’UE","fake_reponse":["Monnaie unique mondiale","Ancienne monnaie"]},
+            {"name":"Quel pays n’est pas dans la zone euro?","response":"Royaume‑Uni","fake_reponse":["France","Allemagne"]},
+            {"name":"Pourquoi l’UE agrandit‑elle ses membres?","response":"Renforcer coopération","fake_reponse":["Isoler États","Coloniser"]},
+            {"name":"Quel traité fondateur après 1957?","response":"Maastricht (1992)","fake_reponse":["Versailles","Rome"]},
+            {"name":"Quel est le Parlement de l’UE?","response":"Bruxelles/Strasbourg","fake_reponse":["Londres","Berlin"]},
+            {"name":"Qu’est‑ce que les fonds européens?","response":"Aides aux régions","fake_reponse":["Subventions coloniales","Prêts privés"]},
+            {"name":"Quel grand projet européen?","response":"Erasmus","fake_reponse":["NAFTA","OTAN"]},
+            {"name":"Que sont les eurodéputés?","response":"Députés élus au Parlement européen","fake_reponse":["Maires","Députés nationaux"]},
+            {"name":"Quel est l’enjeu climatique de l’UE?","response":"Neutralité carbone 2050","fake_reponse":["Colonisation spatiale","Aucune politique"]}
+          ]
+        },
+        {
+          "name": "Mobilités et migrations humaines",
+          "questions": [
+            {"name":"Que sont les mobilités quotidiennes?","response":"Déplacements domicile‑travail","fake_reponse":["Migrations définitives","Voyages touristiques"]},
+            {"name":"Citer un type de mobilité internationale?","response":"Migration économique","fake_reponse":["Balade locale","Randonnée"]},
+            {"name":"Qu’est‑ce qu’un migrant climatique?","response":"Personne déplacée par catastrophe naturelle","fake_reponse":["Touriste","Étudiant"]},
+            {"name":"Quel est l’impact des migrations?","response":"Diversité culturelle, tensions","fake_reponse":["Standardisation","Uniformité"]},
+            {"name":"Que sont les réfugiés?","response":"Personnes fuyant persécution","fake_reponse":["Touristes","Migrants économiques"]},
+            {"name":"Quel pays accueille beaucoup de migrants?","response":"France","fake_reponse":["Antarctique","Mars"]},
+            {"name":"Qu’est‑ce que l’exode rural?","response":"Départ des campagnes vers villes","fake_reponse":["Retour à la campagne","Immigration"]},
+            {"name":"Que signifie diaspora?","response":"Communauté dispersée hors pays","fake_reponse":["Ville isolée","Région forestière"]},
+            {"name":"Qu’est‑ce que la mondialisation des migrations?","response":"Flux migratoires globaux","fake_reponse":["Migration locale","Déplacement fluvial"]},
+            {"name":"Quel pays est un pays émetteur majeur?","response":"Maroc","fake_reponse":["France","Allemagne"]},
+            {"name":"Migration pendulaire, c’est quoi?","response":"Aller‑retour quotidien","fake_reponse":["Exode","Immigration"]},
+            {"name":"Push factor?","response":"Motif d’éloignement (guerre)","fake_reponse":["Motif touristique","Motif sportif"]},
+            {"name":"Pull factor?","response":"Attraction (emplois)","fake_reponse":["Agression","Pollution"]},
+            {"name":"Qu’est‑ce qu’un «brain drain» ?","response":"Fuite des cerveaux","fake_reponse":["Arrivée de cerveaux","Tourisme intellectuel"]}
           ]
         }
 
