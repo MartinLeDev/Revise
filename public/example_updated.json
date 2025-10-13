@@ -1,0 +1,119 @@
+{
+  "matieres": [
+    {
+      "id": "hg",
+      "name": "🗺️ Histoire Géographie",
+      "chapters": [
+        {
+          "name": "🇫🇷 La France pendant la Seconde Guerre mondiale",
+          "questions": [...]
+        },
+        {
+          "name": "👤 Les Régimes Totalitaires du XXe siècle",
+          "questions": [...]
+        },
+        {
+          "name": "🇩🇪 Le Troisième Reich (1933-1945)",
+          "questions": [...]
+        },
+        {
+          "name": "🌍 L'Union Soviétique (URSS)",
+          "questions": [...]
+        },
+        {
+          "name": "🌐 Monde depuis 1945",
+          "questions": [...]
+        },
+        {
+          "name": "🗽 Indépendances et construction de nouveaux États",
+          "questions": [...]
+        },
+        {
+          "name": "🏘️ Dynamiques territoriales de la France contemporaine",
+          "questions": [...]
+        },
+        {
+          "name": "🏗️ Aménagement du territoire",
+          "questions": [...]
+        },
+        {
+          "name": "🇪🇺 La France et l'Union européenne",
+          "questions": [...]
+        },
+        {
+          "name": "🌍 Mobilités et migrations humaines",
+          "questions": [...]
+        }
+      ]
+    },
+    {
+      "id": "french",
+      "name": "📚 Français",
+      "chapters": [
+        {
+          "name": "📖 Analyse de texte / Lecture",
+          "questions": [...]
+        },
+        {
+          "name": "✍️ Grammaire / Orthographe",
+          "questions": [...]
+        },
+        {
+          "name": "⌛ Conjugaison",
+          "questions": [...]
+        },
+        {
+          "name": "📝 Expression écrite / Rédaction",
+          "questions": [...]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "🔢 Mathématiques",
+      "chapters": [
+        {
+          "name": "🧮 Nombres & calculs",
+          "questions": [...]
+        },
+        {
+          "name": "📐 Géométrie",
+          "questions": [...]
+        },
+        {
+          "name": "📊 Proportionnalité & statistiques",
+          "questions": [...]
+        },
+        {
+          "name": "📈 Fonctions & tableaux de valeurs",
+          "questions": [...]
+        }
+      ]
+    },
+    {
+      "id": "physique",
+      "name": "⚡ Physique Chimie",
+      "chapters": [
+        {
+          "name": "💡 Électricité",
+          "questions": [...]
+        },
+        {
+          "name": "🧪 Matière et transformations",
+          "questions": [...]
+        }
+      ]
+    },
+    {
+      "id": "svt",
+      "name": "🌿 Sciences de la Vie et de la Terre",
+      "chapters": [
+        {
+          "name": "🌍 La planète Terre",
+          "questions": [...]
+        }
+      ]
+    }
+  ]
+}
+
