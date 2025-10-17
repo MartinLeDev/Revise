@@ -1,115 +1,381 @@
 {
   "matieres": [
     {
-      "id": "english",
-      "name": "🏰 Anglais",
+      "id": "allemand",
+      "name": "🇩🇪 Allemand",
       "chapters": [
         {
-          "name": "❤️ Like / 💔 Dislike",
+          "name": "🎭 La Représentation de Soi et l'Apparence",
           "questions": [
             {
-              "name": "Que signifie 'I don't mind' ?",
-              "response": "It doesn’t matter",
-              "fake_reponse": [
-                "I love it",
-                "I hate it"
-              ]
+              "name": "Traduisez 'la représentation de soi, la présentation de soi' en allemand.",
+              "response": "die Selbstdarstellung [cite: 4]",
+              "fake_reponse": ["die Kunst", "das Selbst-Porträt"]
             },
             {
-              "name": "Comment dit-on 'J'aime les gens' en anglais ?",
-              "response": "I like people",
-              "fake_reponse": [
-                "I love people",
-                "I hate people"
-              ]
+              "name": "Que veut dire 'sich darstellen' ?",
+              "response": "se représenter, se présenter [cite: 4]",
+              "fake_reponse": ["aimer", "danser"]
             },
             {
-              "name": "Quelle expression signifie 'Je ne supporte pas' ?",
-              "response": "I can't bear / I can't stand",
-              "fake_reponse": [
-                "I enjoy",
-                "I like"
-              ]
+              "name": "Quelle est la traduction allemande de 'l'art' ?",
+              "response": "die Kunst [cite: 4]",
+              "fake_reponse": ["die Realität", "die Fiktion"]
             },
             {
-              "name": "Que veut dire 'I dislike' ?",
-              "response": "I hate",
-              "fake_reponse": [
-                "I enjoy",
-                "I like"
-              ]
+              "name": "Traduisez 'l'autoportrait' en allemand.",
+              "response": "das Selbst-Porträt [cite: 4]",
+              "fake_reponse": ["die Photographie", "die Selbstinszenierung"]
             },
             {
-              "name": "Quelle expression veut dire 'Je ne suis pas fan de' ?",
-              "response": "I'm not keen on / I'm not into",
-              "fake_reponse": [
-                "I love",
-                "I enjoy"
-              ]
+              "name": "Quel mot allemand signifie 'la mise en scène de soi' ?",
+              "response": "die Selbstinszenierung [cite: 4]",
+              "fake_reponse": ["das Selfie", "die Täuschung"]
             },
             {
-              "name": "Que signifie 'I am okay about' ?",
-              "response": "I don’t care",
-              "fake_reponse": [
-                "I like it a lot",
-                "I hate it"
-              ]
+              "name": "Comment dit-on 'le selfie' en allemand ?",
+              "response": "das Selfie [cite: 4]",
+              "fake_reponse": ["die Kindheit", "der Kopf"]
             },
             {
-              "name": "Quelle phrase veut dire 'Je trouve ça bien' ?",
-              "response": "I enjoy",
-              "fake_reponse": [
-                "I hate",
-                "I can't bear"
-              ]
+              "name": "Traduisez 'la photographie' en allemand.",
+              "response": "die Photographie [cite: 4]",
+              "fake_reponse": ["die Kindheitsscheine", "die Angst"]
             },
             {
-              "name": "Comment dit-on 'Je suis bon en...' en anglais ?",
-              "response": "I'm good at",
-              "fake_reponse": [
-                "I'm best of",
-                "I'm into"
-              ]
+              "name": "Comment exprime-t-on 'la réalité $\\ne$ la fiction' en allemand ?",
+              "response": "die Realität $\\ne$ die Fiktion [cite: 4]",
+              "fake_reponse": ["der Frieden", "die Segnung"]
             },
             {
-              "name": "Quelle expression est proche de 'Je suis plutôt...' ?",
-              "response": "I'm kind of",
-              "fake_reponse": [
-                "I'm not into",
-                "I can’t stand"
-              ]
+              "name": "Quel mot allemand signifie 'l'illusion' ?",
+              "response": "die Täuschung (Illusion) [cite: 4]",
+              "fake_reponse": ["der Rucksack", "die Problematik"]
             },
             {
-              "name": "Quelle est la traduction de 'Je suis le meilleur en...' ?",
-              "response": "I'm best of",
-              "fake_reponse": [
-                "I'm good at",
-                "I like"
-              ]
+              "name": "Traduisez 'la problématique, ce que je montre, quand je me représente' en allemand.",
+              "response": "die Problematik, was zeige ich, wenn ich mich darstelle [cite: 4]",
+              "fake_reponse": ["der Wunsch", "die Frucht des Baums"]
             },
             {
-              "name": "Que veut dire 'I love…' ?",
-              "response": "J’adore",
-              "fake_reponse": [
-                "Je déteste",
-                "Je m’en fiche"
-              ]
+              "name": "Que signifie le verbe 'zeigen' ?",
+              "response": "montrer [cite: 4]",
+              "fake_reponse": ["prendre", "donner"]
             },
             {
-              "name": "Comment dit-on 'Je n’aime pas trop' ?",
-              "response": "I don’t really like",
-              "fake_reponse": [
-                "I love",
-                "I enjoy"
-              ]
+              "name": "Comment dit-on 'avoir l'air de' en allemand ?",
+              "response": "aussehen wie [cite: 4]",
+              "fake_reponse": ["se représenter", "porter"]
             },
             {
-              "name": "Quelle phrase correspond à 'Ça m’est égal' ?",
-              "response": "It doesn’t matter / I don’t care",
-              "fake_reponse": [
-                "I like it",
-                "I hate it"
-              ]
+              "name": "Quelle est la traduction allemande de 'les cheveux' ?",
+              "response": "die Haare [cite: 4]",
+              "fake_reponse": ["der Kopf", "der Rucksack"]
+            },
+            {
+              "name": "Traduisez 'la tête' en allemand.",
+              "response": "der Kopf [cite: 4]",
+              "fake_reponse": ["die Flecken", "das Zeichen"]
+            }
+          ]
+        },
+        {
+          "name": "✨ Vocabulaire Descriptif et Adjectifs",
+          "questions": [
+            {
+              "name": "Quelle est la traduction de 'doré(e)' en allemand ?",
+              "response": "goldene [cite: 6]",
+              "fake_reponse": ["mager", "dunkel"]
+            },
+            {
+              "name": "Comment dit-on 'bouclé(e)' en allemand ?",
+              "response": "lockig [cite: 6]",
+              "fake_reponse": ["geradeaus", "reich"]
+            },
+            {
+              "name": "Traduisez l'adjectif 'long(ue)' en allemand.",
+              "response": "lang [cite: 6]",
+              "fake_reponse": ["krank", "hässlich"]
+            },
+            {
+              "name": "Quel mot allemand signifie 'confiant(e)' ?",
+              "response": "selbst bewusst [cite: 6]",
+              "fake_reponse": ["verrückt", "arm"]
+            },
+            {
+              "name": "Traduisez 'fort(e)' (puissant) en allemand.",
+              "response": "mächtig / stark [cite: 6]",
+              "fake_reponse": ["mager", "dunkel"]
+            },
+            {
+              "name": "Comment dit-on 'droit devant' en allemand ?",
+              "response": "geradeaus [cite: 6]",
+              "fake_reponse": ["wirr und betard", "echt"]
+            },
+            {
+              "name": "Quelle est la traduction allemande de 'vrai / vraiment / libre / violent (fort, intense)' ?",
+              "response": "echt/vmt/frei / haphtig [cite: 8]",
+              "fake_reponse": ["hel", "dunkel"]
+            },
+            {
+              "name": "Traduisez 'clair' en allemand.",
+              "response": "hel [cite: 8]",
+              "fake_reponse": ["dunkel", "mager"]
+            },
+            {
+              "name": "Quel mot allemand signifie 'foncé' ?",
+              "response": "dunkel [cite: 8]",
+              "fake_reponse": ["hel", "arm"]
+            },
+            {
+              "name": "Comment dit-on 'maigre' en allemand ?",
+              "response": "mager [cite: 8]",
+              "fake_reponse": ["reich", "verrückt"]
+            },
+            {
+              "name": "Quelle est la traduction allemande de 'riche' ?",
+              "response": "reich [cite: 8]",
+              "fake_reponse": ["arm", "krank"]
+            },
+            {
+              "name": "Traduisez 'pauvre' en allemand.",
+              "response": "arm [cite: 8]",
+              "fake_reponse": ["verrückt", "hässlich"]
+            },
+            {
+              "name": "Quel mot allemand signifie 'fou/folle' ?",
+              "response": "verrückt [cite: 8]",
+              "fake_reponse": ["reich", "arm"]
+            },
+            {
+              "name": "Comment dit-on 'laid(e)' en allemand ?",
+              "response": "hässlich [cite: 8]",
+              "fake_reponse": ["krank", "glücklich"]
+            },
+            {
+              "name": "Traduisez 'malade' en allemand.",
+              "response": "krank [cite: 8]",
+              "fake_reponse": ["verliebt", "glücklich"]
+            }
+          ]
+        },
+        {
+          "name": "🌍 Mots et Expressions Divers",
+          "questions": [
+            {
+              "name": "Quelle est la traduction de 'les taches' en allemand ?",
+              "response": "die Flecken [cite: 10]",
+              "fake_reponse": ["die Segnung", "das Zeichen"]
+            },
+            {
+              "name": "Comment dit-on 'la paix' en allemand ?",
+              "response": "der Frieden [cite: 10]",
+              "fake_reponse": ["die Angst", "der Wunsch"]
+            },
+            {
+              "name": "Traduisez 'la bénédiction' en allemand.",
+              "response": "die Segnung [cite: 10]",
+              "fake_reponse": ["die Pubertät", "die Kindheit"]
+            },
+            {
+              "name": "Quel mot allemand signifie 'le signe' ?",
+              "response": "das Zeichen [cite: 10]",
+              "fake_reponse": ["der Rucksack", "die Flecken"]
+            },
+            {
+              "name": "Comment dit-on 'le sac à dos' en allemand ?",
+              "response": "der Rucksack [cite: 10]",
+              "fake_reponse": ["der Tier", "das Essen"]
+            },
+            {
+              "name": "Traduisez 'l'enfance' en allemand.",
+              "response": "die Kindheit [cite: 10]",
+              "fake_reponse": ["die Pubertät", "die Sorge"]
+            },
+            {
+              "name": "Quel mot allemand signifie 'la puberté' ?",
+              "response": "die Pubertät [cite: 10]",
+              "fake_reponse": ["die Kindheit", "die Freizeit"]
+            },
+            {
+              "name": "Comment dit-on 'amoureux/amoureuse' en allemand ?",
+              "response": "verliebt [cite: 10]",
+              "fake_reponse": ["glücklich", "krank"]
+            },
+            {
+              "name": "Quelle est la traduction de 'heureux/heureuse' en allemand ?",
+              "response": "glücklich [cite: 10]",
+              "fake_reponse": ["verliebt", "wirr und betard"]
+            },
+            {
+              "name": "Traduisez 'l'angoisse, la peur' en allemand.",
+              "response": "die Angst [cite: 10]",
+              "fake_reponse": ["der Frieden", "die Sorge"]
+            },
+            {
+              "name": "Quel mot allemand signifie 'le souci, l'inquiétude' ?",
+              "response": "die Sorge [cite: 10]",
+              "fake_reponse": ["die Angst", "der Wunsch"]
+            },
+            {
+              "name": "Comment dit-on 'le souhait, le désir' en allemand ?",
+              "response": "der Wunsch [cite: 10]",
+              "fake_reponse": ["die Sorge", "das Essen"]
+            },
+            {
+              "name": "Traduisez 'le fruit de l'arbre' en allemand.",
+              "response": "die Frucht des Baums [cite: 10]",
+              "fake_reponse": ["der Tier", "der Regen"]
+            },
+            {
+              "name": "Quel mot allemand signifie 'l'animal' ?",
+              "response": "der Tier [cite: 10]",
+              "fake_reponse": ["das Essen", "der Rucksack"]
+            },
+            {
+              "name": "Comment dit-on 'la nourriture' en allemand ?",
+              "response": "das Essen [cite: 10]",
+              "fake_reponse": ["die Freizeit", "der Tier"]
+            },
+            {
+              "name": "Quelle est la traduction allemande de 'les loisirs' ?",
+              "response": "die Freizeit [cite: 13]",
+              "fake_reponse": ["der Geburtstag", "der Regen"]
+            },
+            {
+              "name": "Traduisez 'l'anniversaire' en allemand.",
+              "response": "der Geburtstag [cite: 13]",
+              "fake_reponse": ["die Freizeit", "der Wunsch"]
+            },
+            {
+              "name": "Quel mot allemand signifie 'couleur/animal/nourriture préféré(e)' ?",
+              "response": "Lieblingsfarbe/tier/essen [cite: 13]",
+              "fake_reponse": ["die Sorge", "die Kindheit"]
+            },
+            {
+              "name": "Comment dit-on 'la pluie' en allemand ?",
+              "response": "der Regen [cite: 13]",
+              "fake_reponse": ["der Frieden", "das Zeichen"]
+            }
+          ]
+        },
+        {
+          "name": "⏳ Verbes, Adverbes et Expressions de Temps",
+          "questions": [
+            {
+              "name": "Que signifie le verbe 'wollen' ?",
+              "response": "vouloir [cite: 15]",
+              "fake_reponse": ["pouvoir", "aimer"]
+            },
+            {
+              "name": "Quelle est la traduction allemande de 'pouvoir' ?",
+              "response": "können [cite: 15]",
+              "fake_reponse": ["mögen", "wohnen"]
+            },
+            {
+              "name": "Traduisez 'aimer' (verbe modal 'bien aimer') en allemand.",
+              "response": "mögen [cite: 15]",
+              "fake_reponse": ["lieben", "hassen"]
+            },
+            {
+              "name": "Quel verbe allemand signifie 'habiter' ?",
+              "response": "wohnen [cite: 15]",
+              "fake_reponse": ["sehen", "geben"]
+            },
+            {
+              "name": "Que veut dire 'sehen' ?",
+              "response": "voir [cite: 15]",
+              "fake_reponse": ["faire", "prendre"]
+            },
+            {
+              "name": "Comment dit-on 'donner' en allemand ?",
+              "response": "geben [cite: 15]",
+              "fake_reponse": ["tragen", "tanzen"]
+            },
+            {
+              "name": "Traduisez 'il y a' en allemand (forme impersonnelle).",
+              "response": "(es gibt) [cite: 15]",
+              "fake_reponse": ["träum(en)", "blicken"]
+            },
+            {
+              "name": "Quel verbe allemand signifie 'faire' ?",
+              "response": "machen [cite: 15]",
+              "fake_reponse": ["nehmen", "denunzieren"]
+            },
+            {
+              "name": "Que signifie 'nehmen' ?",
+              "response": "prendre [cite: 15]",
+              "fake_reponse": ["donner", "voir"]
+            },
+            {
+              "name": "Comment dit-on 'danser' en allemand ?",
+              "response": "tanzen [cite: 15]",
+              "fake_reponse": ["porter", "rêver"]
+            },
+            {
+              "name": "Traduisez 'porter' en allemand.",
+              "response": "tragen [cite: 15]",
+              "fake_reponse": ["aimer", "détester"]
+            },
+            {
+              "name": "Quel verbe allemand signifie 'dénoncer' ?",
+              "response": "denunzieren [cite: 15]",
+              "fake_reponse": ["regarder", "habiter"]
+            },
+            {
+              "name": "Traduisez 'aimer' (sentiment) en allemand.",
+              "response": "lieben [cite: 15]",
+              "fake_reponse": ["mögen", "hassen"]
+            },
+            {
+              "name": "Que veut dire 'hassen' ?",
+              "response": "haïr, détester [cite: 15]",
+              "fake_reponse": ["aimer", "rêver"]
+            },
+            {
+              "name": "Comment dit-on 'rêver' en allemand ?",
+              "response": "träum(en) [cite: 15]",
+              "fake_reponse": ["porter", "dénoncer"]
+            },
+            {
+              "name": "Traduisez 'regarder' en allemand.",
+              "response": "blicken [cite: 15]",
+              "fake_reponse": ["prendre", "donner"]
+            },
+            {
+              "name": "Quel est le sens de l'adverbe 'gern' ?",
+              "response": "volontiers, par plaisir, aimer bien [cite: 17]",
+              "fake_reponse": ["parfois", "souvent"]
+            },
+            {
+              "name": "Comment dit-on 'parfois' en allemand ?",
+              "response": "manchmal [cite: 17]",
+              "fake_reponse": ["jeden Tag", "oft"]
+            },
+            {
+              "name": "Traduisez 'souvent' en allemand.",
+              "response": "oft [cite: 17]",
+              "fake_reponse": ["manchmal", "gern"]
+            },
+            {
+              "name": "Quel adverbe allemand signifie 'tous les jours' ?",
+              "response": "jeden Tag [cite: 17]",
+              "fake_reponse": ["oft", "x mal pro Woche"]
+            },
+            {
+              "name": "Comment traduit-on 'x fois par semaine' en allemand ?",
+              "response": "x mal pro Woche [cite: 20]",
+              "fake_reponse": ["jeden Tag", "oft"]
+            },
+            {
+              "name": "Traduisez 'parce que' (avec verbe conjugué à la fin) en allemand.",
+              "response": "weil + verbe conjugué à la fin [cite: 20]",
+              "fake_reponse": ["denn", "gern"]
+            },
+            {
+              "name": "Quel mot allemand signifie 'car' ?",
+              "response": "denn [cite: 20]",
+              "fake_reponse": ["weil", "oft"]
             }
           ]
         }
