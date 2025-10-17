@@ -212,7 +212,7 @@ function isMobile() {
       </button>
     </div>
     <div v-else>
-      <button
+      <!--<button
         v-if="showQuiz"
         class="home-btn top-left"
         @click="resetQuiz"
@@ -220,7 +220,7 @@ function isMobile() {
         style="left: 50%; transform: translateX(-50%); right: auto;"
       >
         Retour à l'accueil
-      </button>
+      </button>-->
       <div v-if="questions.length > 0" class="question-card">
         <div class="quiz-header">
           <h2 v-if="currentMatiere">
@@ -383,7 +383,7 @@ function isMobile() {
 }
 
 .home-btn.top-left {
-  position: absolute;
+  position: fixed;
   top: 24px;
   left: 24px;
   z-index: 10;
